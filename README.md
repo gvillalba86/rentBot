@@ -1,21 +1,32 @@
-MIT License
+# rentBot - Fotocasa
 
-Copyright (c) 2022 Javier Guimerans Alonso, Gerson Villalba Arana
+#### By _**Javier Guimerans Alonso, Gerson Villalba Arana**_
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+### Tipología y ciclo de vida de los datos, PRA1: Web Scraping
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+## Descripción
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+El proyecto pretende cumplir con las especificaciones detalladas para 
+el cumplimiento de la práctica PRA1 de la asignatura Tipología y 
+ciclo de vida de los datos de la UOC. . 
+
+El proyecto consiste en la programación de un bot que, realizando 
+webscraping, consiga datos de alquileres de viviendas en las ciudades 
+solicitadas. 
+
+Como fuente de datos
+
+Esos datos se guardarán en formato CSV en la carpeta \data.
+También se realiza además un análisis exploratorio de los datos para 
+comprobar so valided y la utilidad que éstos pueden tener en gran cantidad 
+de aplicaciones en el área _data science_.
+
+
+## Datos obtenidos
+
+## Intrucciones de uso
+
+## Limitaciones conocidas
+
+## Licencia
+Ver archivo LICENSE
