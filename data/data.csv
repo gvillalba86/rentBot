@@ -1,0 +1,751 @@
+ID;Precio (€/mes);Tipo;Telefonos;Ciudad;Dirección;Barrio;Habitaciones;Baños;Area (m2);Planta;Ascensor;Terraza;Parking;Calefacción;Aire;Balcón;Precio del m2 (€/m2)
+163015259;900;Ático;945346571;Vitoria - Gasteiz;Bucarest;Salburua - Arantzabela;2;2;65;6;True;False;False;False;False;False;13.846153846153847
+162975613;1000;Piso;945943069;Vitoria - Gasteiz;Calle de Sancho el Sabio;Lovaina;;;75;;False;False;False;False;False;False;13.333333333333334
+162972053;2645;Casa o chalet;;Vitoria - Gasteiz;Calle Andra Mari de Ibernalo;Zona rural este;5;3;307;;False;True;False;False;False;False;8.615635179153095
+162946883;1300;Piso;;Vitoria - Gasteiz;Calle San Millán;Aretxabaleta;2;2;75;1;True;False;False;False;False;False;17.333333333333332
+162888206;850;Piso;945346517;Vitoria - Gasteiz;Gabriela Mistral;Salburua - Arantzabela;3;2;95;5;True;False;False;False;False;False;8.947368421052632
+162768188;1150;Piso;945942919;Vitoria - Gasteiz;Fueros;Ensanche;3;2;100;1;False;False;False;False;False;False;11.5
+163102268;900;Piso;945944183;Vitoria - Gasteiz;Calle de la Fundadora de las Siervas de Jesús;Casco Viejo;2;2;100;2;True;False;False;False;False;False;9.0
+163106915;1500;Dúplex;945943158;Vitoria - Gasteiz;Portal de Castill;Ariznabarra;4;3;150;4;True;False;False;False;False;False;10.0
+163106847;750;Piso;945943158;Vitoria - Gasteiz;Aiztogile Kalea;Casco Viejo;1;1;46;4;True;False;False;False;False;False;16.304347826086957
+163106711;790;Piso;945943850;Vitoria - Gasteiz;Vicente Aleixandre;Santa Lucía;2;1;60;;True;False;False;True;False;False;13.166666666666666
+163076777;1500;Piso;945943051;Vitoria - Gasteiz;;;3;2;120;1;True;False;False;False;False;False;12.5
+163064057;800;Piso;;Vitoria - Gasteiz;Calle de Alberto Schommer;San Cristóbal;2;1;70;4;True;False;False;False;False;False;11.428571428571429
+162265999;1100;Piso;945944816;Vitoria - Gasteiz;Calle General Álava;Ensanche;4;2;140;5;True;False;False;False;False;False;7.857142857142857
+163059019;950;Piso;;Vitoria - Gasteiz;Calle Fueros;Ensanche;2;2;90;2;True;False;False;False;False;False;10.555555555555555
+163056595;1050;Piso;;Vitoria - Gasteiz;Calle Ramiro de Maeztu;Lovaina;2;1;70;1;True;False;False;False;False;False;15.0
+163056400;890;Piso;;Vitoria - Gasteiz;Calle Adriano VI;San Martín;3;2;100;;True;True;False;False;False;False;8.9
+162628844;750;Piso;945346517;Vitoria - Gasteiz;San Antonio;Ensanche;1;1;60;3;True;False;False;False;False;False;12.5
+163014401;1100;Casa adosada;945943051;Vitoria - Gasteiz;;;3;3;150;;False;True;True;False;False;False;7.333333333333333
+162998171;1500;Piso;944949249;Vitoria - Gasteiz;Calle Salbatierrabide;Mendizorrotza;4;2;180;2;True;False;False;False;False;False;8.333333333333334
+162998129;750;Dúplex;944949249;Vitoria - Gasteiz;Calle Herrería;Casco Viejo;1;1;38;1;False;False;False;False;False;False;19.736842105263158
+162977327;800;Piso;945944816;Vitoria - Gasteiz;Calle de las Trianas;Adurtza;2;1;62;3;True;False;False;False;False;False;12.903225806451612
+162975516;850;Piso;945944829;Vitoria - Gasteiz;;;1;1;55;3;True;False;False;False;False;False;15.454545454545455
+162964565;1350;Casa o chalet;945944829;Vitoria - Gasteiz;;;4;2;130;;False;True;False;False;False;False;10.384615384615385
+162946984;900;Piso;;Vitoria - Gasteiz;Calle de San Prudencio;Ensanche;2;1;89;4;True;False;False;False;False;False;10.112359550561798
+162540717;2645;Casa o chalet;;Vitoria - Gasteiz;Calle Virgen de Toloño;Zona rural este;5;3;307;;False;False;False;True;False;False;8.615635179153095
+162924606;900;Piso;;Vitoria - Gasteiz;Calle General Álava;Ensanche;2;2;80;3;True;False;False;False;False;False;11.25
+162899942;1350;Casa adosada;945944816;Vitoria - Gasteiz;Avenida del Zadorra;Ibaiondo;3;2;130;;False;False;False;False;False;False;10.384615384615385
+162867112;800;Piso;945346517;Vitoria - Gasteiz;San Francisco;Casco Viejo;2;2;50;2;True;False;False;False;False;False;16.0
+162865237;1000;Piso;945942913;Vitoria - Gasteiz;;;3;1;85;3;True;False;False;False;False;False;11.764705882352942
+162863986;1400;Piso;945944675;Vitoria - Gasteiz;De la Música;Lovaina;3;2;106;1;True;False;False;False;False;False;13.20754716981132
+162817376;780;Piso;925581026;Toledo Capital;;;4;2;150;2;True;False;False;True;True;False;5.2
+163020446;550;Piso;925581479;Toledo Capital;Nuncio Viejo;Casco Histórico;2;1;70;3;True;False;False;False;False;False;7.857142857142857
+162755783;700;Piso;925581479;Toledo Capital;Talleres;Avenida Europa - San Antón;2;1;115;5;True;False;False;False;False;False;6.086956521739131
+162977770;790;Piso;925633914;Toledo Capital;Uruguay;Avenida Europa - San Antón;4;2;110;3;True;False;False;False;False;False;7.181818181818182
+162957577;550;Dúplex;925634819;Toledo Capital;;;1;2;60;2;True;False;False;False;False;False;9.166666666666666
+162891067;1200;Piso;967561173;Toledo Capital;Río Estenilla;Azucaica - Santa María de Benquerencia;3;2;105;2;True;False;False;False;False;False;11.428571428571429
+162865386;430;Piso;925581479;Toledo Capital;Angel;Casco Histórico;1;1;50;2;True;False;False;False;False;False;8.6
+162688423;550;Piso;925634835;Toledo Capital;Calle de Covarrubias;Avenida Europa - San Antón;;;80;1;True;True;False;True;False;False;6.875
+163062134;650;Piso;925581479;Toledo Capital;Ecuador;Santa Teresa-Vista Hermosa;3;1;100;3;True;False;False;False;False;False;6.5
+163100947;680;Piso;925587518;Toledo Capital;Calle de Potosí;Palomarejos;2;2;105;2;True;False;False;False;False;False;6.476190476190476
+163087496;650;Apartamento;925634819;Toledo Capital;;;2;1;76;1;True;False;False;False;False;False;8.552631578947368
+163003484;690;Dúplex;925581479;Toledo Capital;San Lazaro;Avenida Europa - San Antón;2;2;80;3;True;False;False;False;False;False;8.625
+163106470;550;Piso;925630357;Toledo Capital;Paseo de la Rosa;Santa Bárbara;2;1;65;2;True;False;False;False;False;False;8.461538461538462
+163104078;500;Piso;925582689;Toledo Capital;;;1;1;55;;True;False;False;False;False;False;9.090909090909092
+163102580;690;Piso;925589612;Toledo Capital;;;3;2;90;2;True;False;False;False;False;False;7.666666666666667
+163101588;600;Piso;925092764;Toledo Capital;Calle Río Cascajoso;Azucaica - Santa María de Benquerencia;3;1;90;8;True;False;False;False;False;False;6.666666666666667
+163101123;1000;Piso;925634819;Toledo Capital;;;3;2;120;1;True;False;False;False;False;False;8.333333333333334
+163100545;475;Piso;910750064;Toledo Capital;Buenavista;Buenavista - Valparaíso - La Legua;1;1;50;6;True;False;False;False;False;False;9.5
+162436851;430;Piso;910301693;Toledo Capital;Cuesta Santa Leocadia;Casco Histórico;2;1;80;;False;False;False;True;False;False;5.375
+163070528;800;Piso;925582689;Toledo Capital;Uruguay;Santa Teresa-Vista Hermosa;4;2;110;;True;True;False;False;False;False;7.2727272727272725
+163069316;550;Piso;925580258;Toledo Capital;;;3;1;80;3;False;True;False;False;False;False;6.875
+163069162;500;Piso;925634819;Toledo Capital;;;1;1;49;2;True;False;False;False;False;False;10.204081632653061
+162241683;600;Piso;925580539;Toledo Capital;;;3;1;95;1;False;False;False;False;False;True;6.315789473684211
+162708532;450;Piso;925580539;Toledo Capital;;;2;1;55;1;False;True;False;False;False;False;8.181818181818182
+161041218;700;Piso;925630357;Toledo Capital;Calle Miguel de Cervantes;Casco Histórico;4;2;130;4;True;False;False;False;False;False;5.384615384615385
+163061910;600;Apartamento;925582173;Toledo Capital;;;1;1;70;3;True;False;False;False;False;False;8.571428571428571
+163061012;1000;Piso;925581026;Toledo Capital;Río Estenilla;Azucaica - Santa María de Benquerencia;3;2;110;1;True;False;False;False;False;False;9.090909090909092
+163056423;500;Apartamento;925587059;Toledo Capital;;;1;1;45;2;True;False;False;False;False;False;11.11111111111111
+162562253;750;Piso;925581479;Toledo Capital;Alfileritos;Casco Histórico;3;2;110;;True;False;False;False;False;False;6.818181818181818
+163049553;750;Piso;;Toledo Capital;Madre de Vedruna;Los Cigarrales-La Bastida;3;1;80;;True;True;False;False;False;False;9.375
+163047855;500;Apartamento;925582173;Toledo Capital;;;1;1;80;3;True;False;False;False;False;False;6.25
+162977077;650;Piso;925092764;Toledo Capital;Calle del Río Fresnedoso;Azucaica - Santa María de Benquerencia;3;2;100;4;True;False;False;False;False;False;6.5
+163036706;875;Piso;925634539;Toledo Capital;Avenida del General Villalba;Avenida Europa - San Antón;2;2;79;2;True;False;False;False;False;False;11.075949367088608
+163027639;750;Piso;925633914;Toledo Capital;Rio Valdeyernos;Azucaica - Santa María de Benquerencia;4;2;130;3;True;False;False;False;False;False;5.769230769230769
+163023949;600;Piso;925580258;Toledo Capital;;;3;2;110;1;True;False;False;False;False;False;5.454545454545454
+163018603;750;Piso;925587059;Toledo Capital;Callejón de Juan Guas;Casco Histórico;3;1;74;1;False;False;True;False;False;False;10.135135135135135
+162625453;650;Piso;925589542;Toledo Capital;Calle Puente Secas;Azucaica - Santa María de Benquerencia;3;1;85;2;False;True;False;False;False;False;7.647058823529412
+163005826;750;Piso;925581064;Toledo Capital;Calle del Tajo;Azucaica - Santa María de Benquerencia;2;1;90;;True;False;False;False;False;False;8.333333333333334
+162680919;900;Casa o chalet;925582198;Toledo Capital;Avenida del Madroño;Buenavista - Valparaíso - La Legua;3;2;220;;False;True;False;False;False;False;4.090909090909091
+162985950;900;Piso;925580782;Toledo Capital;;;4;2;165;;True;False;False;False;False;False;5.454545454545454
+162966969;480;Apartamento;925581479;Toledo Capital;San Miguel de Los Angeles;Casco Histórico;1;1;60;2;False;False;False;True;False;False;8.0
+162959855;650;Piso;925587029;Toledo Capital;;;3;1;90;2;False;False;False;True;False;False;7.222222222222222
+162958573;950;Piso;925632805;Toledo Capital;Talleres;Avenida Europa - San Antón;2;2;79;;True;False;False;False;False;False;12.025316455696203
+162957987;625;Piso;911790784;Toledo Capital;Valdemarias;Azucaica - Santa María de Benquerencia;3;1;95;;True;True;False;False;False;False;6.578947368421052
+162024074;780;Piso;925632805;Toledo Capital;Victorio Macho;Casco Histórico;2;1;80;;True;False;False;True;False;False;9.75
+162953426;700;Casa adosada;925580258;Toledo Capital;;;4;3;157;;False;False;False;False;True;False;4.45859872611465
+162941042;530;Piso;925580258;Toledo Capital;;;4;2;89;1;True;False;False;False;False;False;5.955056179775281
+162940448;550;Apartamento;925580258;Toledo Capital;;;1;1;90;5;True;False;False;False;False;False;6.111111111111111
+162936284;500;Piso;925632805;Toledo Capital;La Plata;Casco Histórico;1;1;56;;False;False;False;False;False;False;8.928571428571429
+162929312;780;Piso;918005598;Toledo Capital;;;3;1;100;;True;True;False;False;False;False;7.8
+162898993;650;Piso;925580782;Toledo Capital;;;2;1;85;2;True;False;False;False;False;False;7.647058823529412
+162758824;600;Piso;925580539;Toledo Capital;;;2;2;84;1;True;False;False;False;False;False;7.142857142857143
+162891141;450;Piso;;Toledo Capital;Cuesta del Can;Casco Histórico;1;1;30;;False;False;False;True;True;False;15.0
+162884749;625;Piso;925581479;Toledo Capital;San Anton;Avenida Europa - San Antón;2;1;70;;True;False;False;True;False;False;8.928571428571429
+162261347;600;Dúplex;925580258;Toledo Capital;;;3;2;110;;False;False;False;True;False;False;5.454545454545454
+162876069;490;Piso;925580258;Toledo Capital;;;2;1;80;2;True;False;False;False;False;False;6.125
+162851841;450;Apartamento;925580782;Toledo Capital;;;1;1;55;1;False;False;False;True;False;False;8.181818181818182
+162785853;850;Piso;925587029;Toledo Capital;Roma;Avenida Europa - San Antón;3;2;134;1;True;False;False;False;False;False;6.343283582089552
+162384418;875;Piso;925580258;Toledo Capital;;;3;2;87;1;True;False;False;False;False;False;10.057471264367816
+162385696;700;Apartamento;925587029;Toledo Capital;;;1;1;87;1;True;False;False;False;False;False;8.045977011494253
+162823025;650;Piso;;Toledo Capital;Calle Ecuador;Santa Teresa-Vista Hermosa;3;1;125;;False;True;False;False;False;True;5.2
+162761252;990;Piso;925582198;Toledo Capital;Calle Río Valdemarías;Azucaica - Santa María de Benquerencia;3;2;105;2;True;False;False;False;False;False;9.428571428571429
+162821622;650;Piso;;Toledo Capital;Calle Río Alberche;Azucaica - Santa María de Benquerencia;3;1;;;True;False;True;False;False;True;
+162820765;770;Piso;925633914;Toledo Capital;Francia;Buenavista - Valparaíso - La Legua;3;2;131;;True;True;False;False;False;False;5.877862595419847
+162818188;550;Piso;925630357;Toledo Capital;Travesía Nuestra Sra de la Guía;Santa Bárbara;2;1;75;2;True;False;False;False;False;False;7.333333333333333
+162802061;780;Piso;925589612;Toledo Capital;;;4;2;127;2;True;False;False;False;False;False;6.141732283464567
+162799266;700;Piso;;Toledo Capital;Carretera de Piedrabuena;Los Cigarrales-La Bastida;2;2;80;;False;False;True;True;False;False;8.75
+162674125;875;Piso;925581479;Toledo Capital;Talleres;Avenida Europa - San Antón;2;2;75;2;True;False;False;False;False;False;11.666666666666666
+162794901;600;Apartamento;925581479;Toledo Capital;Alfileritos;Casco Histórico;1;1;55;;False;False;False;True;True;False;10.909090909090908
+162386364;875;Piso;925582173;Toledo Capital;;;2;2;151;1;True;False;False;False;False;False;5.7947019867549665
+159059640;850;Casa adosada;925634819;Toledo Capital;;;5;3;180;;False;True;True;False;False;False;4.722222222222222
+162769679;950;Piso;925581479;Toledo Capital;Colombia;Santa Teresa-Vista Hermosa;4;2;120;4;True;False;False;False;False;False;7.916666666666667
+162761718;600;Piso;925580258;Toledo Capital;;;3;1;89;1;False;False;False;False;True;False;6.741573033707865
+161186315;850;Casa adosada;925581479;Toledo Capital;Calle Yedra;Azucaica - Santa María de Benquerencia;5;3;300;10;False;True;False;False;False;False;2.8333333333333335
+156910152;1200;Piso;925634819;Toledo Capital;;;4;3;195;2;True;False;False;False;False;False;6.153846153846154
+162684934;900;Piso;925580782;Toledo Capital;;;3;2;112;4;True;False;False;False;False;False;8.035714285714286
+161737920;950;Piso;925634819;Toledo Capital;;;4;2;120;4;True;False;False;False;False;False;7.916666666666667
+162678281;900;Piso;925582307;Toledo Capital;;;3;2;112;4;True;False;False;False;False;False;8.035714285714286
+162662115;1400;Piso;;Toledo Capital;Avenida del Río Estenilla;Azucaica - Santa María de Benquerencia;3;2;105;;True;False;True;False;False;False;13.333333333333334
+157782917;1500;Piso;925582173;Toledo Capital;;;4;2;167;;False;False;False;False;False;False;8.982035928143713
+162593673;875;Piso;925632805;Toledo Capital;Bolivia;Santa Teresa-Vista Hermosa;4;2;134;;True;True;False;False;False;False;6.529850746268656
+162552987;690;Piso;925581064;Toledo Capital;Calle Retamosillo;Azucaica - Santa María de Benquerencia;3;1;90;13;True;False;False;False;False;False;7.666666666666667
+162653189;600;Piso;;Toledo Capital;;;3;1;80;3;False;False;False;False;False;False;7.5
+162534482;750;Piso;925580782;Toledo Capital;;;2;2;75;1;True;False;False;False;False;False;10.0
+162530399;455;Apartamento;;Toledo Capital;Calle de San Roque;Avenida Europa - San Antón;1;1;58;;False;False;False;True;True;False;7.844827586206897
+162416212;800;Ático;;Toledo Capital;Calle Río Valdemarías;Azucaica - Santa María de Benquerencia;2;2;95;;True;False;False;False;False;True;8.421052631578947
+162451750;750;Piso;916355203;Toledo Capital;San Lucas;Casco Histórico;5;2;160;2;True;False;False;False;False;False;4.6875
+162439752;750;Piso;;Toledo Capital;Avenida de Europa;Palomarejos;2;1;70;;True;True;False;False;False;False;10.714285714285714
+162147172;950;Piso;;Toledo Capital;Calle Río Valdemarías;Azucaica - Santa María de Benquerencia;3;2;113;;True;False;True;False;False;False;8.4070796460177
+162301731;850;Piso;925589015;Toledo Capital;;;3;2;105;;True;False;False;False;False;False;8.095238095238095
+162187411;775;Piso;925580258;Toledo Capital;;;;1;57;;True;False;False;True;False;False;13.596491228070175
+161289763;850;Piso;911790784;Toledo Capital;Guadarrama;Azucaica - Santa María de Benquerencia;3;2;100;3;True;False;False;False;False;False;8.5
+161360262;550;Apartamento;;Toledo Capital;Calle Calle Puerta Nueva;Toledo Capital;4;2;104;;True;True;False;False;False;False;5.288461538461538
+161254479;1000;Piso;;Toledo Capital;Avenida de América;Santa Teresa-Vista Hermosa;1;2;50;;False;False;False;True;True;False;20.0
+160727175;425;Apartamento;;Toledo Capital;Callejón de San Justo;Casco Histórico;4;2;150;;True;False;True;False;False;False;2.8333333333333335
+160465819;930;Piso;;Toledo Capital;Calle Duque de Ahumada;Palomarejos;1;1;40;;False;False;False;True;True;False;23.25
+158382744;460;Ático;;Toledo Capital;Calle de San Marcos;Casco Histórico;4;2;114;;True;True;False;False;False;False;4.035087719298246
+156086647;530;Apartamento;;Toledo Capital;Avenida de Carlos III;Toledo Capital;1;1;70;;True;False;True;False;False;False;7.571428571428571
+132048972;900;Piso;;Toledo Capital;Urbanización Tres Culturas C/ Dr Fleming;Buenavista - Valparaíso - La Legua;1;1;60;;False;False;False;True;False;True;15.0
+160769746;1800;Casa o chalet;;Toledo Capital;;;2;1;90;;True;False;True;False;False;False;20.0
+162096523;950;Piso;;Toledo Capital;Calle Río Valdemarías;Azucaica - Santa María de Benquerencia;5;5;420;;True;True;False;False;False;False;2.261904761904762
+160568920;650;Piso;;Toledo Capital;Calle Río Huso;Azucaica - Santa María de Benquerencia;3;2;113;;True;False;True;False;False;False;5.752212389380531
+154771240;500;Piso;925632631;Toledo Capital;Granada;Casco Histórico;4;2;90;;True;False;True;False;False;False;5.555555555555555
+162926744;550;Piso;876276071;Zaragoza Capital;;;3;1;65;1;True;False;False;False;False;False;8.461538461538462
+162920053;850;Piso;876873112;Zaragoza Capital;Calle Cineasta José Luis Borau;Actur-Rey Fernando;3;2;90;7;True;False;False;False;False;False;9.444444444444445
+162736802;525;Apartamento;976366972;Zaragoza Capital;Calle Cáceres;San José;1;1;43;2;True;False;False;False;False;False;12.209302325581396
+162327779;500;Apartamento;876870478;Zaragoza Capital;De Antonio Sangenis;Delicias;2;1;58;5;True;False;False;False;False;False;8.620689655172415
+163007136;900;Piso;876872934;Zaragoza Capital;Calle Andrés Piquer;Universidad;4;1;94;1;True;False;False;False;False;False;9.574468085106384
+162858241;750;Piso;876873041;Zaragoza Capital;Paseo la Constitución;Centro;2;1;85;5;True;False;False;False;False;False;8.823529411764707
+163018207;900;Piso;931335749;Zaragoza Capital;;;2;1;109;;False;False;False;False;True;False;8.256880733944953
+162880661;700;Piso;876274154;Zaragoza Capital;Calle Jacinto Benavente;Universidad;3;2;89;4;True;False;False;False;False;False;7.865168539325842
+162808523;520;Piso;876873148;Zaragoza Capital;Calle Cruz del Sur;Oliver-Valdefierro;1;1;46;1;True;False;False;False;False;False;11.304347826086957
+162975617;550;Piso;876873298;Zaragoza Capital;Tenor Fleta;Centro;1;1;50;6;True;False;False;False;False;False;11.0
+162973702;1260;Piso;931335749;Zaragoza Capital;;;4;2;142;;False;False;False;False;True;False;8.873239436619718
+162972984;750;Piso;931335749;Zaragoza Capital;;;3;2;90;;False;False;False;False;True;False;8.333333333333334
+162971090;550;Loft;876870483;Zaragoza Capital;Calle Torre;Casco Histórico;1;1;60;;False;False;False;False;False;False;9.166666666666666
+162969401;550;Loft;876870489;Zaragoza Capital;Calle Torre;Casco Histórico;1;1;60;;False;False;False;False;False;False;9.166666666666666
+162938709;685;Piso;974972274;Zaragoza Capital;Cesáreo Alierta;San José;2;1;65;6;True;False;False;False;False;False;10.538461538461538
+162796842;950;Piso;876871923;Zaragoza Capital;Calle Don Jaime I;Casco Histórico;3;2;150;2;True;False;False;False;False;False;6.333333333333333
+162907819;850;Ático;931335749;Zaragoza Capital;;;3;2;85;;False;False;False;False;True;False;10.0
+162903635;800;Piso;931335749;Zaragoza Capital;;;3;2;113;;False;False;False;False;True;False;7.079646017699115
+162890576;680;Piso;876276068;Zaragoza Capital;Mariano Royo Urieta;Centro;3;1;85;;True;False;False;True;False;False;8.0
+162885510;550;Piso;876275285;Zaragoza Capital;Calle Pedro I de Aragón;La Almozara;3;1;58;2;False;False;False;True;False;False;9.482758620689655
+162876572;850;Piso;876274228;Zaragoza Capital;Vitoria;Centro;3;2;103;4;True;False;False;False;False;False;8.25242718446602
+162852368;680;Piso;978971325;Zaragoza Capital;Cesáreo Alierta;San José;2;1;75;8;True;False;False;False;False;False;9.066666666666666
+162799945;1150;Piso;910302061;Zaragoza Capital;Calle Coso;Casco Histórico;2;2;95;4;True;False;False;False;False;False;12.105263157894736
+162664306;650;Piso;876870473;Zaragoza Capital;Ventura Rodríguez;San José;3;1;72;3;True;False;False;False;False;False;9.027777777777779
+162730023;1500;Piso;876871145;Zaragoza Capital;;;4;4;109;8;True;False;False;False;False;False;13.761467889908257
+162730057;900;Piso;876871145;Zaragoza Capital;;;2;4;49;6;True;False;False;False;False;False;18.367346938775512
+162958460;500;Piso;976364120;Zaragoza Capital;;;2;1;64;4;True;False;False;False;False;False;7.8125
+163103906;784;Piso;931335749;Zaragoza Capital;;;2;1;69;;False;False;False;False;True;False;11.36231884057971
+163064147;710;Piso;876871491;Zaragoza Capital;Calle Juan Bautista Lavaña;Miralbueno;3;2;86;4;True;False;False;False;False;False;8.255813953488373
+163024345;700;Piso;876871857;Zaragoza Capital;Calle Antonio Cánovas;Centro;2;1;71;6;True;False;False;False;False;False;9.859154929577464
+163088397;850;Ático;931335749;Zaragoza Capital;;;3;2;85;;False;False;False;False;True;False;10.0
+163002982;460;Piso;876276068;Zaragoza Capital;Andrea Casamayor;Las Fuentes;1;1;50;;True;False;False;True;False;False;9.2
+162969362;675;Piso;876279174;Zaragoza Capital;Alfonso I;Casco Histórico;1;1;66;1;True;False;False;False;False;False;10.227272727272727
+162509350;600;Piso;;Zaragoza Capital;Calle Arzobispo Soldevila;Delicias;2;1;55;6;True;False;False;False;False;False;10.909090909090908
+163087555;750;Piso;931335749;Zaragoza Capital;;;3;2;90;;False;False;False;False;True;False;8.333333333333334
+162785143;725;Piso;876276547;Zaragoza Capital;Goya;Centro;3;1;104;2;True;False;False;False;False;False;6.971153846153846
+162200111;700;Piso;876274158;Zaragoza Capital;Miguel Servet;Casco Histórico;3;2;107;4;True;False;False;False;False;False;6.542056074766355
+162434449;880;Piso;876274228;Zaragoza Capital;San Vicente Martir;Centro;4;2;91;7;True;False;False;False;False;False;9.67032967032967
+162796584;525;Piso;876276547;Zaragoza Capital;Alegria;San José;1;1;48;2;False;False;False;False;False;True;10.9375
+162872982;850;Piso;876276068;Zaragoza Capital;Ponciano Ponzano;Centro;2;2;100;;True;True;False;False;False;False;8.5
+163106813;850;Piso;876872934;Zaragoza Capital;Calle Cortes de Aragón;Universidad;3;2;97;3;True;False;False;False;False;False;8.762886597938145
+161973815;725;Piso;976366972;Zaragoza Capital;Camino de las Torres;San José;3;2;76;7;True;False;False;False;False;False;9.539473684210526
+163106504;550;Piso;876276071;Zaragoza Capital;;;1;1;40;3;True;False;False;False;False;False;13.75
+163106501;575;Apartamento;976366972;Zaragoza Capital;Calle Predicadores;Casco Histórico;1;1;40;1;True;False;False;False;False;False;14.375
+163105730;450;Apartamento;876276071;Zaragoza Capital;;;1;1;48;3;True;False;False;False;False;False;9.375
+163105570;900;Piso;876873182;Zaragoza Capital;;;3;2;112;3;True;False;False;False;False;False;8.035714285714286
+161021352;680;Piso;976364120;Zaragoza Capital;;;2;1;83;2;False;False;False;True;False;False;8.19277108433735
+163105147;540;Piso;876872064;Zaragoza Capital;Calle Alcañíz;Delicias;3;1;70;5;True;False;False;False;False;False;7.714285714285714
+163104695;1600;Piso;931335749;Zaragoza Capital;;;3;2;125;;False;False;False;False;True;False;12.8
+163103671;450;Piso;876276071;Zaragoza Capital;;;1;1;42;1;False;False;False;True;False;False;10.714285714285714
+163102875;1300;Piso;876274228;Zaragoza Capital;Sagasta;Centro;4;3;161;3;True;False;False;False;False;False;8.074534161490684
+163102516;500;Piso;876278503;Zaragoza Capital;Calle Escultor Moreto;San José;1;1;60;6;True;False;False;False;False;False;8.333333333333334
+163100725;470;Piso;876274737;Zaragoza Capital;Carretera de Valencia;Montecanal - Valdespartera - Arcosur;3;1;75;;False;False;False;False;False;False;6.266666666666667
+163087683;500;Piso;876278053;Zaragoza Capital;Avenida Compromiso de Caspe;Las Fuentes;2;1;68;4;True;False;False;False;False;False;7.352941176470588
+163087380;1260;Piso;931335749;Zaragoza Capital;;;4;2;142;;False;False;False;False;True;False;8.873239436619718
+163087376;650;Piso;876278053;Zaragoza Capital;Calle Miguel Servet;Las Fuentes;3;1;100;6;True;False;False;False;False;False;6.5
+163076790;735;Piso;961284629;Zaragoza Capital;Av Juan Pablo II - Centro Aragonia -;Universidad;2;2;77;;True;False;False;True;False;False;9.545454545454545
+161358967;630;Piso;966530723;Zaragoza Capital;Av de la Almozara;La Almozara;3;1;80;;True;False;False;True;False;False;7.875
+163076393;900;Piso;876276398;Zaragoza Capital;Sagasta;Universidad;2;2;87;;False;False;False;False;False;False;10.344827586206897
+163074156;490;Piso;876276071;Zaragoza Capital;;;3;1;60;1;True;False;False;False;False;False;8.166666666666666
+163073969;700;Piso;876276071;Zaragoza Capital;;;4;2;90;2;True;False;False;False;False;False;7.777777777777778
+163073935;495;Apartamento;876275361;Zaragoza Capital;Calle Segovia;San José;1;1;36;;True;False;False;True;False;False;13.75
+163073859;500;Piso;876275693;Zaragoza Capital;Burgos;Delicias;2;1;72;;True;False;False;True;False;False;6.944444444444445
+163073660;600;Piso;976917012;Zaragoza Capital;Federico Gacía Lorca;San José;3;1;86;;True;False;False;True;False;False;6.976744186046512
+163073552;650;Piso;876276542;Zaragoza Capital;Camino de las Torres;San José;3;1;70;3;True;False;False;False;False;False;9.285714285714286
+163073440;580;Casa adosada;876871084;Zaragoza Capital;Calle Duquesa Villahermosa;Delicias;2;1;60;;False;False;False;True;False;False;9.666666666666666
+163073347;480;Piso;876276139;Zaragoza Capital;;;1;1;35;1;True;False;False;False;False;False;13.714285714285714
+162399597;675;Piso;876872389;Zaragoza Capital;Avenida Academia General Militar;Actur-Rey Fernando;4;2;100;4;True;False;False;False;False;False;6.75
+163072289;450;Piso;876276082;Zaragoza Capital;Calle Pedro I de Aragón;La Almozara;1;1;40;2;True;False;False;False;False;False;11.25
+163072174;450;Apartamento;876276071;Zaragoza Capital;;;1;1;40;2;True;False;False;False;False;False;11.25
+163072110;490;Piso;876277183;Zaragoza Capital;Calle Cuarte;Torrero-La Paz;2;1;50;2;False;False;False;True;False;False;9.8
+163070534;600;Piso;876276082;Zaragoza Capital;Calle las Cortes;La Almozara;3;1;90;4;True;False;False;False;False;False;6.666666666666667
+161431255;750;Piso;876276082;Zaragoza Capital;Plaza del Pilar;Casco Histórico;2;2;75;2;True;False;False;False;False;False;10.0
+162780594;750;Piso;876276082;Zaragoza Capital;Calle Reina Fabiola;San José;2;1;85;8;True;False;False;False;False;False;8.823529411764707
+163066903;630;Piso;876871491;Zaragoza Capital;Paseo de Sagasta;Centro;2;1;50;4;True;False;False;False;False;False;12.6
+163066799;500;Piso;876872689;Zaragoza Capital;Calle Escopetería;Casco Histórico;1;1;40;4;True;False;False;False;False;False;12.5
+163066125;800;Ático;;Zaragoza Capital;Calle León XIII;Centro;3;1;77;;False;True;False;True;False;False;10.38961038961039
+163066652;650;Piso;876274154;Zaragoza Capital;Calle Marqués de Ahumada;San José;2;1;55;;True;False;False;False;False;False;11.818181818181818
+163065473;675;Piso;;Zaragoza Capital;Avenida Academia General Militar;Actur-Rey Fernando;4;2;104;4;True;False;False;False;False;False;6.490384615384615
+163065155;480;Apartamento;;Zaragoza Capital;Calle Pabostría;Casco Histórico;1;1;35;;True;False;False;True;False;False;13.714285714285714
+163064874;599;Piso;876276071;Zaragoza Capital;;;2;1;55;4;True;False;False;False;False;False;10.89090909090909
+163064622;700;Piso;876872689;Zaragoza Capital;Calle Zoel García Galdeano;Centro;2;1;78;2;True;False;False;False;False;False;8.974358974358974
+161764345;900;Piso;876872389;Zaragoza Capital;Paseo de Sagasta;Centro;2;2;65;6;True;False;False;False;False;False;13.846153846153847
+162757385;1500;Piso;876274158;Zaragoza Capital;Cesar Augusto;Centro;4;3;120;7;False;True;False;False;False;False;12.5
+163060929;1300;Piso;876274228;Zaragoza Capital;Alierta;Centro;5;4;161;6;True;False;False;False;False;False;8.074534161490684
+163059314;1600;Piso;931335749;Zaragoza Capital;;;3;2;125;;False;False;False;False;True;False;12.8
+163059040;550;Piso;876276139;Zaragoza Capital;Gavin;Casco Histórico;1;1;50;2;True;False;False;False;False;False;11.0
+163058891;800;Piso;876276071;Zaragoza Capital;;;3;2;85;2;True;False;False;False;False;False;9.411764705882353
+163057634;485;Piso;876276071;Zaragoza Capital;;;2;1;50;3;True;False;False;False;False;False;9.7
+163056415;500;Piso;876870486;Zaragoza Capital;;;3;1;80;1;False;True;False;False;False;False;6.25
+163053991;650;Piso;876872107;Zaragoza Capital;Zoel García Galdeano;Centro;3;1;72;1;False;False;True;False;False;False;9.027777777777779
+163052977;850;Piso;876278153;Zaragoza Capital;Zambrano;Actur-Rey Fernando;3;2;132;8;True;False;False;False;False;False;6.4393939393939394
+162333789;550;Piso;;Zaragoza Capital;Calle Mayor;Casco Histórico;1;1;65;;True;False;False;True;False;False;8.461538461538462
+163052593;1490;Piso;876276082;Zaragoza Capital;Paseo de Sagasta;Universidad;4;2;190;1;True;False;False;False;False;False;7.842105263157895
+159066031;1150;Piso;876872389;Zaragoza Capital;Calle Ángela López Jiménez;Universidad;3;2;110;3;True;False;False;False;False;False;10.454545454545455
+163049987;630;Piso;;Zaragoza Capital;Calle Berenguer de Bardají;Delicias;3;1;70;;False;True;False;True;False;False;9.0
+163049804;965;Piso;;Zaragoza Capital;Avenida Cesáreo Alierta;Centro;3;2;120;;True;True;False;False;False;False;8.041666666666666
+163048654;450;Piso;;Zaragoza Capital;Calle las Armas;Casco Histórico;1;1;40;;False;False;False;True;False;False;11.25
+162406523;1150;Piso;876275393;Zaragoza Capital;Calle Ángela López Jiménez;Universidad;3;2;91;3;True;False;False;False;False;False;12.637362637362637
+163046843;500;Piso;;Zaragoza Capital;Calle Tomás Higuera;Las Fuentes;3;1;70;;False;False;False;True;False;True;7.142857142857143
+163046507;675;Piso;;Zaragoza Capital;Avenida Academia General Militar;Actur-Rey Fernando;4;2;104;4;True;False;False;False;False;False;6.490384615384615
+163046398;575;Piso;;Zaragoza Capital;Calle Burgos;Delicias;2;1;57;;False;False;False;True;False;False;10.087719298245615
+163046326;640;Piso;;Zaragoza Capital;Calle Pedro Liñán;Casco Histórico;2;1;65;;True;False;False;False;False;True;9.846153846153847
+163045922;950;Piso;916355203;Zaragoza Capital;Calle Maestro Luna;Casco Histórico;2;2;70;4;True;False;False;False;False;False;13.571428571428571
+163043465;870;Dúplex;932933668;Zaragoza Capital;;;3;3;151;9;True;False;False;False;False;False;5.76158940397351
+163043462;695;Piso;932933668;Zaragoza Capital;;;2;2;75;4;True;False;False;False;False;False;9.266666666666667
+163042469;590;Piso;;Zaragoza Capital;Antonio Mompeon Motos;Delicias;2;1;60;;True;False;False;True;False;False;9.833333333333334
+163042213;750;Piso;876871405;Zaragoza Capital;Marte;Oliver-Valdefierro;3;2;86;1;True;False;False;False;False;False;8.720930232558139
+163042103;1150;Piso;876276732;Zaragoza Capital;Rosales;Centro;4;2;146;2;True;False;False;False;False;False;7.876712328767123
+163041643;1185;Piso;876276732;Zaragoza Capital;Rosales;Centro;4;2;156;2;True;False;False;False;False;False;7.596153846153846
+163040850;1350;Piso;876276732;Zaragoza Capital;Coso;Centro;4;2;164;2;True;False;False;False;False;False;8.231707317073171
+163039767;650;Piso;976366942;Zaragoza Capital;Calle Santa Joaquina de Vedruna;Centro;3;1;77;;True;True;False;False;False;False;8.441558441558442
+163039090;480;Piso;;Zaragoza Capital;Calle de Espoz y Mina;Casco Histórico;1;1;40;;True;False;False;False;False;True;12.0
+163038719;650;Piso;976367279;Zaragoza Capital;Calle de Miguel Servet;San José;3;1;77;1;True;False;False;False;False;False;8.441558441558442
+163037666;675;Piso;;Zaragoza Capital;Avenida Academia General Militar;Actur-Rey Fernando;4;2;90;;True;False;True;False;False;False;7.5
+163035754;800;Piso;931335749;Zaragoza Capital;;;3;2;113;;False;False;False;False;True;False;7.079646017699115
+163035295;900;Piso;876873041;Zaragoza Capital;Paseo de Sagasta;Centro;2;2;70;6;True;False;False;False;False;False;12.857142857142858
+163033758;700;Dúplex;876872094;Zaragoza Capital;Calle María Moliner;San José;3;2;94;4;True;False;False;False;False;False;7.446808510638298
+163031462;950;Piso;916355203;Zaragoza Capital;Doctor Joaquín Aznar Molina;Casco Histórico;4;2;131;5;True;False;False;False;False;False;7.251908396946565
+163030173;550;Piso;876275285;Zaragoza Capital;Calle Predicadores;Casco Histórico;2;1;65;1;True;False;False;False;False;False;8.461538461538462
+163029573;730;Piso;876871158;Zaragoza Capital;Calle Duquesa Villahermosa;Delicias;3;2;74;7;True;False;False;False;False;False;9.864864864864865
+163028311;900;Piso;876278153;Zaragoza Capital;Hernan Cortes;Centro;4;2;120;2;True;False;False;False;False;False;7.5
+163026845;650;Piso;876275693;Zaragoza Capital;El Carmen;Centro;3;1;60;;True;True;False;False;False;False;10.833333333333334
+163025675;480;Apartamento;876872487;Zaragoza Capital;Calle José García Sánchez;Delicias;1;1;45;2;True;False;False;False;False;False;10.666666666666666
+163025187;680;Piso;976366942;Zaragoza Capital;Avenida Cesáreo Alierta;San José;3;1;75;;False;False;False;True;False;False;9.066666666666666
+163024727;600;Piso;876872558;Zaragoza Capital;Calle Río Piedra;El Rabal;3;1;;;True;True;False;True;False;False;
+163024524;450;Apartamento;876276071;Zaragoza Capital;;;1;1;50;4;False;False;False;True;False;False;9.0
+163024054;500;Piso;876276071;Zaragoza Capital;;;3;1;60;4;True;False;False;False;False;False;8.333333333333334
+163023612;650;Piso;876276071;Zaragoza Capital;;;3;1;75;2;True;False;False;False;False;False;8.666666666666666
+161473629;550;Piso;876275638;Zaragoza Capital;Calle San Juan Bautista;Torrero-La Paz;2;1;66;;False;False;False;True;False;False;8.333333333333334
+162350833;1300;Piso;876872389;Zaragoza Capital;Paseo Independencia;Centro;4;2;135;8;True;False;False;False;False;False;9.62962962962963
+160192479;800;Piso;;Zaragoza Capital;Avenida José Anselmo Clavé;Centro;2;1;70;;True;False;True;False;False;False;11.428571428571429
+163021496;540;Piso;911799092;Zaragoza Capital;Rodriguez Ayuso;Oliver-Valdefierro;2;1;47;4;True;False;False;False;False;False;11.48936170212766
+163020680;800;Piso;916355203;Zaragoza Capital;Antonio Fernández Molina;Santa Isabel - Movera;3;2;126;1;True;False;False;False;False;False;6.349206349206349
+163019663;784;Piso;931335749;Zaragoza Capital;;;2;1;69;;False;False;False;False;True;False;11.36231884057971
+163019026;1425;Casa adosada;876872389;Zaragoza Capital;Calle Martín Díez de Aux;Montecanal - Valdespartera - Arcosur;5;3;180;;False;True;False;False;False;False;7.916666666666667
+163016922;420;Piso;876276071;Zaragoza Capital;;;1;1;45;2;True;False;False;False;False;False;9.333333333333334
+163015616;475;Piso;876278932;Zaragoza Capital;Borja;Delicias;2;1;47;;False;False;False;False;False;False;10.106382978723405
+163012694;570;Piso;;Zaragoza Capital;Calle José Pellicer;San José;3;1;90;;False;False;False;True;False;True;6.333333333333333
+163010490;475;Apartamento;876276071;Zaragoza Capital;;;1;1;40;2;True;False;False;False;False;False;11.875
+163010100;650;Piso;876276071;Zaragoza Capital;;;2;1;74;1;True;False;False;False;False;False;8.783783783783784
+163009730;600;Apartamento;876872389;Zaragoza Capital;Calle Lastanosa;Delicias;1;1;60;2;True;False;False;False;False;False;10.0
+160905920;1100;Piso;976366942;Zaragoza Capital;Paseo de Sagasta;Centro;2;2;77;3;True;False;False;False;False;False;14.285714285714286
+160358510;1600;Piso;910302061;Zaragoza Capital;Paseo de Ruiseñores;Universidad;3;2;128;2;True;False;False;False;False;False;12.5
+163007061;650;Piso;;Zaragoza Capital;Calle León XIII;Centro;1;1;55;;True;False;False;True;False;False;11.818181818181818
+163006401;600;Piso;876873148;Zaragoza Capital;Calle Martín Cortés;Delicias;3;1;57;2;True;False;False;False;False;False;10.526315789473685
+163002164;650;Piso;876277054;Zaragoza Capital;Calle de Santiago;Casco Histórico;2;1;60;3;True;False;False;False;False;False;10.833333333333334
+163001994;690;Piso;876276139;Zaragoza Capital;San Vicente de Paul;Casco Histórico;1;1;58;4;True;False;False;False;False;False;11.89655172413793
+162333748;700;Piso;876274154;Zaragoza Capital;Avenida José Anselmo Clavé;Centro;3;2;79;7;True;False;False;False;False;False;8.860759493670885
+162877549;650;Piso;976367279;Zaragoza Capital;Calle Bolonia;Centro;2;1;80;4;True;False;False;False;False;False;8.125
+162995820;595;Piso;976366942;Zaragoza Capital;Calle José María Lacarra de Miguel;Centro;3;1;70;;True;False;False;False;False;True;8.5
+162690552;1500;Ático;876870329;Zaragoza Capital;Independencia;Centro;3;2;154;6;True;False;False;False;False;False;9.74025974025974
+162992543;330;Apartamento;876276071;Zaragoza Capital;;;1;1;30;;False;False;False;True;False;False;11.0
+162992483;600;Piso;;Zaragoza Capital;San Jose;San José;2;1;56;;True;True;False;False;False;False;10.714285714285714
+162992260;750;Piso;;Zaragoza Capital;Vía Vía Universitas;Delicias;3;1;121;;False;False;False;True;True;False;6.198347107438017
+162992012;550;Piso;876872487;Zaragoza Capital;Avenida de San José;San José;2;1;53;3;True;False;False;False;False;False;10.377358490566039
+162990619;450;Apartamento;876276071;Zaragoza Capital;;;1;1;50;4;False;False;False;True;False;False;9.0
+162494617;650;Piso;976366939;Zaragoza Capital;Calle Alfonso I;Casco Histórico;1;1;51;2;True;False;False;False;False;False;12.745098039215685
+162988479;700;Piso;;Zaragoza Capital;Calle Basilio Boggiero;Casco Histórico;2;1;60;;True;False;True;False;False;False;11.666666666666666
+161805626;950;Piso;;Zaragoza Capital;Calle Doctor J Aznar Molina;Casco Histórico;4;2;131;;True;True;False;False;False;False;7.251908396946565
+162981959;650;Piso;876276953;Zaragoza Capital;Calle María Lostal;Centro;2;1;85;2;True;False;False;False;False;False;7.647058823529412
+162979321;525;Piso;876275534;Zaragoza Capital;Calle Juan Bautista del Mazo;La Almozara;2;1;54;4;False;False;False;False;True;False;9.722222222222221
+162977510;690;Piso;974440173;Zaragoza Capital;Calle Verónica;Casco Histórico;3;2;95;3;True;False;False;False;False;False;7.2631578947368425
+162976198;600;Piso;876276071;Zaragoza Capital;;;3;1;60;3;True;False;False;False;False;False;10.0
+162972109;500;Piso;876276071;Zaragoza Capital;;;1;1;40;3;True;False;False;False;False;False;12.5
+162971605;1260;Piso;876279174;Zaragoza Capital;Fleta ( Tenor );San José;4;2;162;8;True;False;False;False;False;False;7.777777777777778
+162970206;750;Piso;876276071;Zaragoza Capital;;;4;2;110;4;True;False;False;False;False;False;6.818181818181818
+162894556;740;Piso;976366975;Zaragoza Capital;Cuéllar;San José;4;2;105;5;True;False;False;False;False;False;7.0476190476190474
+162964979;630;Piso;876872487;Zaragoza Capital;Calle Reina Fabiola;San José;3;1;87;3;False;True;False;False;False;False;7.241379310344827
+162959979;600;Ático;876872389;Zaragoza Capital;Calle la Coruña;Torrero-La Paz;2;1;50;3;True;False;False;False;False;False;12.0
+162958302;675;Piso;876278913;Zaragoza Capital;;;1;1;62;1;True;False;False;False;False;False;10.887096774193548
+162622965;625;Piso;876872035;Zaragoza Capital;Calle Bernardo Fita;Centro;2;2;70;1;True;False;False;False;False;False;8.928571428571429
+162381516;1100;Piso;876275280;Zaragoza Capital;;;4;2;147;1;True;False;False;False;False;False;7.482993197278912
+162954496;750;Piso;;Zaragoza Capital;Vía Ibérica;Casablanca;2;1;53;;True;False;False;True;False;False;14.150943396226415
+161585035;500;Piso;876276071;Zaragoza Capital;;;1;1;45;1;False;True;False;False;False;False;11.11111111111111
+162947034;620;Piso;876276071;Zaragoza Capital;;;2;1;55;1;True;False;False;False;False;False;11.272727272727273
+162946430;550;Apartamento;876872389;Zaragoza Capital;Calle Francisco Pradilla;San José;1;1;47;2;True;False;False;False;False;False;11.702127659574469
+162946361;585;Apartamento;876872389;Zaragoza Capital;Calle Júpiter;Oliver-Valdefierro;1;1;55;;True;False;False;False;False;False;10.636363636363637
+162945190;850;Piso;876871491;Zaragoza Capital;;;3;2;106;1;True;False;False;False;False;False;8.018867924528301
+162355575;700;Piso;876870473;Zaragoza Capital;Mariano Royo Urieta;Centro;4;1;91;3;True;False;False;False;False;False;7.6923076923076925
+162943073;550;Piso;916355203;Zaragoza Capital;Francisco Pradilla;San José;1;1;47;2;True;False;False;False;False;False;11.702127659574469
+162943070;600;Piso;876873041;Zaragoza Capital;Pasaje Coímbra;Centro;3;1;75;4;True;False;False;False;False;False;8.0
+162942355;750;Piso;;Zaragoza Capital;Calle Embarcadero;Casablanca;2;1;60;;False;False;False;False;False;False;12.5
+162940730;640;Piso;876276139;Zaragoza Capital;;;2;1;50;4;True;False;False;False;False;False;12.8
+162938701;480;Piso;876276071;Zaragoza Capital;;;1;1;40;4;True;False;False;False;False;False;12.0
+162938408;550;Piso;876276139;Zaragoza Capital;;;1;1;40;2;True;False;False;False;False;False;13.75
+162750608;525;Piso;876873148;Zaragoza Capital;Calle Borja;Delicias;2;1;55;2;False;False;False;False;False;True;9.545454545454545
+162933734;1000;Piso;876872519;Zaragoza Capital;Via Iberica;Casablanca;3;2;98;2;True;False;False;False;False;False;10.204081632653061
+162922990;800;Piso;876872389;Zaragoza Capital;Calle de Perdiguera;El Rabal;3;2;120;3;True;False;False;False;False;False;6.666666666666667
+160160036;860;Piso;961284629;Zaragoza Capital;Av Juan Pablo II - Centro Aragonia -;Universidad;2;2;77;;True;False;False;True;False;False;11.168831168831169
+162890742;850;Piso;876872389;Zaragoza Capital;Calle Félix Latassa;Universidad;4;1;85;2;True;False;False;False;False;False;10.0
+162928806;866;Piso;876276139;Zaragoza Capital;;;3;2;100;3;True;False;False;False;False;False;8.66
+162928646;550;Piso;976366968;Zaragoza Capital;Calle Pedro María Ric;Centro;3;1;60;4;True;False;False;False;False;False;9.166666666666666
+162928266;555;Piso;876276071;Zaragoza Capital;;;3;1;90;2;False;False;False;True;False;False;6.166666666666667
+162925701;550;Piso;;Zaragoza Capital;Calle Madre Sacramento;Centro;2;1;70;;True;False;False;False;False;False;7.857142857142857
+162925220;700;Piso;876872487;Zaragoza Capital;Calle Mi Tío;Montecanal - Valdespartera - Arcosur;3;2;97;3;True;False;False;False;False;False;7.216494845360825
+162924853;580;Piso;876276071;Zaragoza Capital;;;2;1;70;3;True;False;False;False;False;False;8.285714285714286
+162924542;550;Piso;976366925;Zaragoza Capital;Calle Mayor;Casco Histórico;1;1;65;4;True;False;False;False;False;False;8.461538461538462
+162923317;850;Piso;876276139;Zaragoza Capital;;;4;1;85;1;True;False;False;False;False;False;10.0
+162923290;700;Piso;876278931;Zaragoza Capital;Virgen;Casco Histórico;2;1;71;2;True;False;False;False;False;False;9.859154929577464
+162921438;650;Piso;876873041;Zaragoza Capital;Calle Doctor Alcay;Universidad;3;1;84;1;True;False;False;False;False;False;7.738095238095238
+162912487;600;Piso;876276139;Zaragoza Capital;;;2;1;50;3;True;False;False;False;False;False;12.0
+162781540;750;Piso;876872389;Zaragoza Capital;Calle Conde de Aranda;Casco Histórico;4;1;120;;True;False;False;False;False;False;6.25
+162905576;850;Piso;916355203;Zaragoza Capital;Félix Latassa;Universidad;4;1;85;2;True;False;False;False;False;False;10.0
+162899216;675;Piso;876873041;Zaragoza Capital;Calle Lagos de Coronas;Miralbueno;2;2;80;1;True;False;False;False;False;False;8.4375
+162898248;635;Piso;876276071;Zaragoza Capital;;;1;1;65;7;True;False;False;False;False;False;9.76923076923077
+162897244;965;Piso;876276071;Zaragoza Capital;;;3;2;118;4;True;False;False;False;False;False;8.177966101694915
+162894564;900;Piso;876276071;Zaragoza Capital;;;5;2;150;2;True;False;False;False;False;False;6.0
+162894400;750;Piso;876277054;Zaragoza Capital;Gómez Laguna;Delicias;2;2;75;7;True;False;False;False;False;False;10.0
+162893674;560;Piso;876276071;Zaragoza Capital;;;2;1;62;4;True;False;False;False;False;False;9.03225806451613
+162890698;700;Piso;876276071;Zaragoza Capital;;;2;1;70;3;True;False;False;False;False;False;10.0
+162890674;900;Piso;876276139;Zaragoza Capital;;;4;2;136;5;True;False;False;False;False;False;6.617647058823529
+162890612;730;Piso;961284629;Zaragoza Capital;Av Juan Pablo II - Centro Aragonia -;Universidad;2;2;75;;True;False;False;True;False;False;9.733333333333333
+162890589;570;Piso;961284629;Zaragoza Capital;C/ Mayor;Casco Histórico;3;1;73;;True;False;False;True;False;False;7.808219178082192
+162885655;750;Piso;916355203;Zaragoza Capital;Pablo Sarasate;Delicias;3;2;90;5;True;False;False;False;False;False;8.333333333333334
+162607582;630;Apartamento;976367237;Zaragoza Capital;;;1;1;58;1;True;False;False;False;False;False;10.862068965517242
+162884418;600;Piso;;Zaragoza Capital;Calle Póstigo de Ebro;Casco Histórico;2;1;55;;True;False;False;True;False;False;10.909090909090908
+162882401;750;Apartamento;;Zaragoza Capital;Vía Universitas;Delicias;1;1;69;;True;False;True;False;False;False;10.869565217391305
+162881304;495;Apartamento;976367233;Zaragoza Capital;Calle Madre Ràfols;Casco Histórico;;1;34;4;True;False;False;True;False;False;14.558823529411764
+162324748;850;Dúplex;876278307;Zaragoza Capital;Plaza Santo Domingo;Casco Histórico;4;2;96;4;True;False;False;False;False;False;8.854166666666666
+162875520;900;Piso;;Zaragoza Capital;Calle a Zapater Cerdán;El Rabal;4;2;105;5;True;False;False;False;False;False;8.571428571428571
+162875473;737;Dúplex;876276071;Zaragoza Capital;;;3;2;76;4;True;False;False;False;False;False;9.697368421052632
+162875066;460;Piso;876276071;Zaragoza Capital;;;1;1;45;3;True;False;False;False;False;False;10.222222222222221
+162874956;545;Piso;876276071;Zaragoza Capital;;;3;1;80;2;False;False;False;True;False;False;6.8125
+162874344;690;Piso;876873041;Zaragoza Capital;Calle Hermandad Donantes de Sangre;Delicias;4;1;95;4;True;False;False;False;False;False;7.2631578947368425
+162872072;725;Ático;;Zaragoza Capital;Calle Calle Marcos Zapata;Delicias;3;2;75;;True;True;False;False;False;False;9.666666666666666
+162871951;850;Piso;976366942;Zaragoza Capital;Paseo Gran Vía;Centro;3;2;111;;True;True;False;False;False;False;7.657657657657658
+162871601;1100;Piso;876872486;Zaragoza Capital;Paseo de Sagasta;Universidad;7;2;240;4;True;False;False;False;False;False;4.583333333333333
+162868270;550;Piso;876276139;Zaragoza Capital;;;2;1;60;3;True;False;False;False;False;False;9.166666666666666
+162526001;700;Piso;;Zaragoza Capital;Aldebaran;Oliver-Valdefierro;3;2;90;;True;True;False;False;False;False;7.777777777777778
+162382619;600;Piso;;Zaragoza Capital;Goya;Centro;3;2;78;;True;True;False;False;False;False;7.6923076923076925
+162864840;580;Piso;876873041;Zaragoza Capital;Calle San Lorenzo;Casco Histórico;2;1;55;;True;False;False;False;False;False;10.545454545454545
+162864070;714;Piso;876276139;Zaragoza Capital;;;3;2;91;1;True;False;False;False;False;False;7.846153846153846
+162864058;459;Piso;876276139;Zaragoza Capital;;;1;1;50;3;True;False;False;False;False;False;9.18
+162856087;600;Piso;876276243;Zaragoza Capital;Calle Bernardo Fita;Centro;2;1;60;6;True;False;False;False;False;False;10.0
+162510796;600;Piso;876872389;Zaragoza Capital;Paseo de Cuéllar;San José;2;1;70;;True;False;False;False;False;True;8.571428571428571
+162841351;950;Piso;876275393;Zaragoza Capital;Calle Condes de Aragón;Universidad;2;2;90;5;True;False;False;False;False;False;10.555555555555555
+161688639;750;Piso;876872389;Zaragoza Capital;Paseo de Sagasta;Centro;1;1;58;7;True;False;False;False;False;False;12.931034482758621
+162837817;540;Piso;;Zaragoza Capital;Vía Universitas;Delicias;1;1;50;;True;False;False;True;False;False;10.8
+162833421;900;Piso;916355203;Zaragoza Capital;Mariano Cebollero;El Rabal;4;3;105;5;True;False;False;False;False;False;8.571428571428571
+162831656;600;Piso;876276139;Zaragoza Capital;;;3;1;70;2;True;False;False;False;False;False;8.571428571428571
+162831462;550;Piso;876872487;Zaragoza Capital;Calle Unceta;Delicias;2;1;75;3;True;False;False;False;False;False;7.333333333333333
+162830291;450;Piso;;Zaragoza Capital;Lugo;Torrero-La Paz;3;1;65;;False;True;False;True;False;False;6.923076923076923
+162827999;600;Piso;876274134;Zaragoza Capital;Academia General Militar;El Rabal;1;1;62;8;True;False;False;False;False;False;9.67741935483871
+162827548;480;Piso;876276071;Zaragoza Capital;;;3;1;60;2;False;False;False;False;False;True;8.0
+162827214;750;Piso;876872689;Zaragoza Capital;Avenida José Anselmo Clavé;Centro;3;2;75;1;True;False;False;False;False;False;10.0
+162824146;850;Piso;976366968;Zaragoza Capital;Paseo Gran Vía;Centro;4;1;88;9;True;False;False;False;False;False;9.659090909090908
+162821206;1275;Piso;;Zaragoza Capital;Paseo Fernando el Católico;Universidad;5;2;150;;True;False;False;True;False;False;8.5
+162820285;650;Piso;976366942;Zaragoza Capital;Calle Fernando de Antequera;Universidad;2;1;60;;False;False;False;True;True;False;10.833333333333334
+162817450;700;Piso;876278143;Zaragoza Capital;;;2;1;70;;True;True;False;False;False;False;10.0
+162816931;1150;Piso;976366985;Zaragoza Capital;Calle Francisco de Vitoria;Centro;3;2;150;2;True;False;False;False;False;False;7.666666666666667
+162400467;650;Piso;876873289;Zaragoza Capital;Jaime Balmes;Centro;2;1;61;5;True;False;False;False;False;False;10.655737704918034
+162813687;660;Piso;876872583;Zaragoza Capital;Paseo Independencia;Centro;1;1;55;5;True;False;False;False;False;False;12.0
+162813070;480;Dúplex;876872486;Zaragoza Capital;Calle Santa Isabel;Casco Histórico;1;1;60;3;False;False;False;True;False;False;8.0
+162812242;750;Piso;976366979;Zaragoza Capital;Calle Sobrarbe;El Rabal;3;1;75;1;True;False;False;False;False;False;10.0
+162203514;760;Piso;876276071;Zaragoza Capital;;;4;1;94;1;True;False;False;False;False;False;8.085106382978724
+162808531;395;Piso;876277054;Zaragoza Capital;Horno;El Rabal;1;1;35;2;False;False;False;True;False;False;11.285714285714286
+162732155;525;Piso;876870489;Zaragoza Capital;Avenida de Madrid;Delicias;2;1;58;3;True;False;False;False;False;False;9.051724137931034
+162803482;670;Piso;876872934;Zaragoza Capital;Calle Juan José Lorente;Universidad;3;1;76;4;True;False;False;False;False;False;8.81578947368421
+162802507;700;Piso;876872035;Zaragoza Capital;Paseo Teruel;Centro;3;1;92;;True;False;False;True;False;False;7.608695652173913
+162802433;700;Piso;876872035;Zaragoza Capital;Paseo Teruel;Centro;3;1;92;2;True;False;False;False;False;False;7.608695652173913
+162207578;1000;Piso;;Zaragoza Capital;Pasaje de Comercio;Casco Histórico;4;2;117;2;True;False;False;False;False;False;8.547008547008547
+162800934;650;Piso;876276071;Zaragoza Capital;;;2;1;90;8;True;False;False;False;False;False;7.222222222222222
+162799774;520;Piso;;Zaragoza Capital;Calle Ventura Rodríguez;San José;3;1;65;;False;False;False;True;False;True;8.0
+161876677;900;Piso;876274158;Zaragoza Capital;Sagasta;Universidad;3;2;137;7;True;False;False;False;False;False;6.569343065693431
+161012707;950;Piso;876875187;Zaragoza Capital;;;4;2;107;11;True;False;False;False;False;False;8.878504672897197
+158857407;790;Piso;876871418;Zaragoza Capital;Calle de Santiago;Casco Histórico;3;2;115;3;True;False;False;False;False;False;6.869565217391305
+162729442;600;Piso;876274158;Zaragoza Capital;Hilarión Eslava;Delicias;2;1;62;4;True;False;False;False;False;False;9.67741935483871
+162289012;620;Piso;910302061;Zaragoza Capital;Plaza de Sas;Casco Histórico;2;1;51;3;True;False;False;False;False;False;12.156862745098039
+162797792;550;Piso;876276071;Zaragoza Capital;;;2;1;65;2;False;False;False;True;False;False;8.461538461538462
+162797263;690;Piso;876871923;Zaragoza Capital;Calle Jorge Cocci;Las Fuentes;3;1;70;;False;True;False;True;False;False;9.857142857142858
+161996163;875;Piso;876871923;Zaragoza Capital;Paseo de las Damas;Centro;3;2;80;;True;True;False;False;False;False;10.9375
+162796654;700;Dúplex;876275227;Zaragoza Capital;Nicanor Villalta;Delicias;2;2;137;;True;False;False;True;False;False;5.109489051094891
+162795756;780;Piso;876276071;Zaragoza Capital;;;4;3;167;;True;False;False;False;False;False;4.6706586826347305
+162789723;470;Piso;;Zaragoza Capital;Manuela Sancho;Casco Histórico;1;1;56;;False;False;False;True;True;False;8.392857142857142
+162789697;797;Piso;;Zaragoza Capital;Avenida Juan Pablo II;Universidad;2;2;61;7;True;False;False;False;False;False;13.065573770491802
+162383048;1100;Piso;876276068;Zaragoza Capital;Nuestra Señora del Carmen;Centro;4;2;147;;False;True;True;False;False;False;7.482993197278912
+162788858;650;Piso;876871491;Zaragoza Capital;Paseo María Agustín;Centro;2;1;70;6;True;False;False;False;False;False;9.285714285714286
+161594697;950;Piso;876872389;Zaragoza Capital;Avenida Juan Pablo II;Universidad;4;2;110;11;True;False;False;False;False;False;8.636363636363637
+162731617;1100;Piso;876871097;Zaragoza Capital;Paseo María Agustín;Centro;4;2;120;9;True;False;False;False;False;False;9.166666666666666
+162405964;690;Piso;976366985;Zaragoza Capital;Calle León XIII;Centro;2;1;65;1;True;False;False;False;False;False;10.615384615384615
+162725755;750;Piso;876274158;Zaragoza Capital;San Miguel;Centro;2;2;80;3;True;False;False;False;False;False;9.375
+162786460;600;Piso;876870316;Zaragoza Capital;Torre Nueva;Casco Histórico;2;1;65;3;True;False;False;False;False;False;9.23076923076923
+162786458;600;Piso;876870316;Zaragoza Capital;Torre Nueva;Casco Histórico;2;1;65;3;True;False;False;False;False;False;9.23076923076923
+162415791;590;Piso;966530723;Zaragoza Capital;C/ Leopoldo Romeo;Las Fuentes;3;1;59;;True;False;False;False;False;False;10.0
+162723458;650;Piso;974972274;Zaragoza Capital;;;3;1;77;7;True;False;False;False;False;False;8.441558441558442
+162782940;560;Piso;;Zaragoza Capital;Avenida Tenor Fleta;San José;3;1;72;;False;True;False;True;False;False;7.777777777777778
+162766104;685;Piso;876278276;Zaragoza Capital;Calle Manuel Lorenzo Pardo;San José;;;70;3;True;True;False;True;False;False;9.785714285714286
+162781397;550;Piso;876274158;Zaragoza Capital;Marcos Zapata;Delicias;3;1;74;4;False;True;False;False;False;False;7.4324324324324325
+161490155;600;Piso;876274158;Zaragoza Capital;San Miguel;Centro;1;1;50;3;True;False;False;False;False;False;12.0
+162214365;750;Piso;876277305;Zaragoza Capital;Calle Conde de Aranda;Casco Histórico;5;1;120;3;True;False;False;False;False;False;6.25
+159741864;700;Apartamento;876871418;Zaragoza Capital;Calle Alfonso I;Casco Histórico;1;1;45;2;True;False;False;False;False;False;15.555555555555555
+162416328;797;Piso;961284629;Zaragoza Capital;Av Juan Pablo II - Centro Aragonia -;Universidad;2;2;77;;True;False;False;True;False;False;10.35064935064935
+162363472;800;Piso;876276547;Zaragoza Capital;Andador de Los Hudíes;Universidad;4;2;106;1;True;False;False;False;False;False;7.547169811320755
+160926567;2900;Casa o chalet;876276068;Zaragoza Capital;Veremundo Méndez Coarasa;Casablanca;5;5;501;;False;True;False;True;False;False;5.788423153692615
+161443282;2200;Ático;876871145;Zaragoza Capital;;;5;3;229;3;True;False;False;False;False;False;9.606986899563319
+162026884;900;Piso;;Zaragoza Capital;Paseo de Sagasta;Centro;2;2;70;6;True;False;False;False;False;False;12.857142857142858
+156847772;1300;Piso;;Zaragoza Capital;;;4;2;150;6;False;False;False;False;True;False;8.666666666666666
+162378650;900;Estudio;876871145;Zaragoza Capital;;;2;2;109;2;True;False;False;False;False;False;8.256880733944953
+162431146;900;Piso;;Zaragoza Capital;Calle Francisco de Vitoria;Centro;2;1;84;2;True;False;False;False;False;False;10.714285714285714
+163102689;950;Piso;932515047;Sabadell;Carrer de Sant Isidre;Creu Alta - Puiggener;3;2;89;5;False;False;False;False;False;False;10.674157303370787
+162724955;800;Planta baja;932514359;Sabadell;;;2;2;80;;True;False;False;False;False;False;10.0
+162512112;963;Piso;916359276;Sabadell;Carrer de Borrell;Centre - Sant Oleguer;3;2;87;2;True;False;False;False;False;False;11.068965517241379
+163067768;850;Piso;931347231;Sabadell;;;3;1;90;;False;False;False;True;False;False;9.444444444444445
+161624133;800;Dúplex;935430216;Sabadell;;;2;1;85;1;True;False;False;False;False;False;9.411764705882353
+160083593;850;Piso;931338329;Sabadell;;;4;2;110;1;False;True;False;False;False;False;7.7272727272727275
+162962944;900;Casa adosada;931338329;Sabadell;;;;1;134;;False;False;False;False;False;False;6.7164179104477615
+162922892;1900;Casa adosada;932821784;Sabadell;;;5;2;230;;False;True;False;False;False;False;8.26086956521739
+162790404;1600;Piso;932829126;Sabadell;;;3;2;100;7;True;False;False;False;False;False;16.0
+162688989;850;Piso;931334195;Sabadell;;;3;1;77;1;True;False;False;False;False;False;11.03896103896104
+162757931;800;Piso;932821916;Sabadell;;;2;1;84;;False;True;False;True;False;False;9.523809523809524
+162458228;800;Piso;911799092;Sabadell;Comte de Reus;Centre - Sant Oleguer;2;2;78;1;True;False;False;False;False;False;10.256410256410257
+162877970;930;Ático;931337943;Sabadell;;;2;1;124;;True;False;False;True;False;False;7.5
+162563675;850;Piso;932821916;Sabadell;;;3;1;90;1;False;False;False;True;False;False;9.444444444444445
+163108600;850;Piso;932995783;Sabadell;Joan Morral;Can Feu - Gràcia;2;1;60;1;True;False;False;False;False;False;14.166666666666666
+163103400;750;Piso;931348114;Sabadell;Carretera de Terrassa;Concòrdia - Can Rull;3;1;80;8;True;False;False;False;False;False;9.375
+163103007;900;Ático;932886536;Sabadell;Alemania;Centre - Sant Oleguer;2;2;75;;True;False;False;True;False;False;12.0
+163103006;1200;Piso;932886536;Sabadell;Zamenhof;Centre - Sant Oleguer;5;2;140;;True;True;False;False;False;False;8.571428571428571
+163102428;655;Piso;932931531;Sabadell;Drapaires Dels;Creu de Barberà - Sector Sud;4;2;92;4;True;False;False;False;False;False;7.119565217391305
+163071401;988;Ático;932931531;Sabadell;Felix Amat de;Centre - Sant Oleguer;1;2;112;2;True;False;False;False;False;False;8.821428571428571
+163066429;800;Piso;935433983;Sabadell;;;3;1;90;;True;False;False;True;False;False;8.88888888888889
+163065118;600;Apartamento;931338756;Sabadell;Carrer Capmany;Centre - Sant Oleguer;1;1;40;1;True;False;False;False;False;False;15.0
+163063642;740;Piso;966530723;Sabadell;Pz Rómulo;Concòrdia - Can Rull;3;1;51;;False;False;False;False;False;False;14.509803921568627
+163062036;890;Piso;932938292;Sabadell;;;3;2;85;;True;False;False;False;False;False;10.470588235294118
+163059173;850;Piso;932514692;Sabadell;Brutau;Centre - Sant Oleguer;3;2;105;;True;True;False;False;False;False;8.095238095238095
+163054133;700;Piso;935430946;Sabadell;;;3;1;70;3;True;False;False;False;False;False;10.0
+163053218;800;Piso;931349684;Sabadell;;;2;1;84;;False;False;False;False;False;False;9.523809523809524
+162458206;810;Planta baja;911799092;Sabadell;Latorre;Centre - Sant Oleguer;3;2;81;;True;False;False;False;False;False;10.0
+163052408;900;Piso;935438401;Sabadell;;;4;2;94;1;True;False;False;False;False;False;9.574468085106384
+162172836;930;Piso;966530723;Sabadell;C/ de L´ Estrella;Centre - Sant Oleguer;2;2;94;;True;False;False;False;False;False;9.893617021276595
+163027718;700;Piso;931348114;Sabadell;Esglesia Romanica;Creu de Barberà - Sector Sud;3;1;75;;False;True;False;False;False;True;9.333333333333334
+162152487;700;Piso;912178214;Sabadell;Albeniz;Concòrdia - Can Rull;2;1;49;;True;False;False;False;False;False;14.285714285714286
+162241965;1200;Ático;935430946;Sabadell;;;2;2;75;6;True;False;False;False;False;False;16.0
+163011701;1050;Piso;932510736;Sabadell;;;3;2;100;5;True;False;False;False;False;False;10.5
+163005505;1500;Dúplex;932823362;Sabadell;Dinares;Creu Alta - Puiggener;4;3;130;;True;True;False;False;False;False;11.538461538461538
+163004624;730;Planta baja;932990754;Sabadell;;;3;1;90;;False;True;False;True;False;False;8.11111111111111
+163004600;625;Piso;932990754;Sabadell;;;1;1;56;1;True;False;False;False;False;False;11.160714285714286
+162513391;850;Piso;932938709;Sabadell;;;3;2;96;2;True;False;False;False;False;False;8.854166666666666
+162970825;1000;Ático;935433013;Sabadell;;;2;2;80;1;True;False;False;False;False;False;12.5
+162970824;1200;Ático;935433013;Sabadell;;;2;2;105;1;True;False;False;False;False;False;11.428571428571429
+162969577;750;Piso;932938867;Sabadell;Carrer del Sol;Centre - Sant Oleguer;2;1;57;2;True;False;False;False;False;False;13.157894736842104
+162523578;850;Piso;932515379;Sabadell;;;3;1;83;2;False;False;False;False;False;False;10.240963855421686
+159544601;950;Casa adosada;931338329;Sabadell;;;;1;134;;False;False;False;False;False;False;7.08955223880597
+162954793;1500;Piso;931337943;Sabadell;;;4;2;270;2;True;False;False;False;False;False;5.555555555555555
+162950628;850;Piso;932886536;Sabadell;Vilarrubias;Creu Alta - Puiggener;3;2;90;;True;False;False;False;False;True;9.444444444444445
+162872523;1200;Loft;930447195;Sabadell;Carrer Turull;Centre - Sant Oleguer;2;2;120;;True;False;False;True;False;False;10.0
+162940693;835;Dúplex;930447608;Sabadell;;;4;2;118;7;True;False;False;False;False;False;7.076271186440678
+162939486;789;Piso;932829194;Sabadell;;;2;1;65;1;True;False;False;False;False;False;12.138461538461538
+162937457;930;Ático;931348114;Sabadell;Carretera Barcelona;Creu de Barberà - Sector Sud;2;1;124;;True;True;False;False;False;False;7.5
+162929200;1150;Piso;932510736;Sabadell;;;2;2;95;10;True;False;False;False;False;False;12.105263157894736
+162898408;900;Piso;932934212;Sabadell;;;2;1;52;1;True;False;False;False;False;False;17.307692307692307
+162893912;800;Piso;932936063;Sabadell;;;2;1;73;4;True;False;False;False;False;False;10.95890410958904
+162890235;675;Piso;966530723;Sabadell;C/ Claustre;Poble Nou - Torre-romeu - Can Roqueta;3;1;56;;False;False;False;False;False;False;12.053571428571429
+158885478;885;Piso;935436329;Sabadell;;;3;1;82;;True;False;False;False;False;True;10.792682926829269
+162878918;780;Piso;966530723;Sabadell;C/ Joaquin Sorolla;Concòrdia - Can Rull;3;1;71;;False;False;False;False;False;False;10.985915492957746
+162860344;1180;Piso;932937217;Sabadell;Onze de Setembre;Creu Alta - Puiggener;4;2;156;;True;False;False;True;False;False;7.564102564102564
+162367100;850;Piso;932938709;Sabadell;;;3;1;83;1;False;False;False;False;False;False;10.240963855421686
+162826124;1300;Piso;932938715;Sabadell;Ronda de Zamenhof;Centre - Sant Oleguer;4;2;134;;True;False;True;False;False;False;9.701492537313433
+162184146;800;Piso;931346459;Sabadell;;;2;1;85;;True;False;False;False;False;False;9.411764705882353
+162819607;950;Piso;932931531;Sabadell;Balmes de;Centre - Sant Oleguer;3;2;178;1;True;False;False;False;False;False;5.337078651685394
+162961396;660;Casa o chalet;953114539;Jaén Capital;;;3;2;103;;False;True;False;True;False;False;6.407766990291262
+163015034;550;Piso;953115713;Jaén Capital;;;3;2;110;7;True;False;False;False;False;False;5.0
+162990948;700;Piso;953115713;Jaén Capital;;;3;2;70;4;True;False;False;False;False;False;10.0
+162970216;37000;Apartamento;953115713;Jaén Capital;;;1;1;38;;False;False;False;False;False;True;973.6842105263158
+162956896;450;Piso;953115713;Jaén Capital;;;3;1;80;;True;False;False;False;False;False;5.625
+162953609;550;Piso;953113786;Jaén Capital;;;3;1;80;;False;False;False;True;True;False;6.875
+162951936;490;Piso;953380135;Jaén Capital;;;1;1;91;1;False;False;False;True;False;False;5.384615384615385
+162946986;550;Piso;953115713;Jaén Capital;;;2;1;65;1;True;False;False;False;False;False;8.461538461538462
+162937460;600;Piso;953115713;Jaén Capital;;;2;2;96;3;True;False;False;False;False;False;6.25
+162935511;650;Piso;953380135;Jaén Capital;Calle de Sefarad;Hospital;4;2;120;1;True;False;False;False;False;False;5.416666666666667
+162894623;180;Piso;953115713;Jaén Capital;;;4;2;120;5;True;False;False;False;False;False;1.5
+162739080;690;Casa o chalet;953115713;Jaén Capital;;;2;2;109;;False;True;False;False;False;False;6.330275229357798
+163101332;450;Piso;953113786;Jaén Capital;;;3;1;80;;False;False;False;False;False;False;5.625
+163100650;180;Piso;953115713;Jaén Capital;;;1;1;90;1;False;False;False;True;False;False;2.0
+162696209;600;Piso;953115713;Jaén Capital;;;2;2;105;2;False;False;False;True;False;False;5.714285714285714
+163064309;560;Piso;953115713;Jaén Capital;;;3;2;99;1;True;False;False;False;False;False;5.656565656565657
+162854619;450;Piso;952949623;Jaén Capital;Del Sol;San Bartolomé - Millán de Priego;3;1;78;3;True;False;False;False;False;False;5.769230769230769
+162630591;690;Piso;953113786;Jaén Capital;;;4;2;154;5;True;False;False;False;False;False;4.48051948051948
+163106719;600;Piso;953113543;Jaén Capital;C/ Santo Reino;Avda de Madrid - Pº de la Estación;2;1;62;;True;False;False;True;False;False;9.67741935483871
+163106672;500;Piso;953115713;Jaén Capital;;;3;1;90;1;True;False;False;False;False;False;5.555555555555555
+163106212;650;Piso;953114231;Jaén Capital;;;2;2;76;2;True;False;False;False;False;False;8.552631578947368
+163102100;380;Piso;953114865;Jaén Capital;Calle Andrés Segovia;Avda de Madrid - Pº de la Estación;3;2;80;;False;False;False;False;False;False;4.75
+163087279;380;Piso;;Jaén Capital;Calle Andrés Segovia;Avda de Madrid - Pº de la Estación;3;2;80;;False;False;False;False;False;False;4.75
+163075505;410;Ático;;Jaén Capital;Calle Maestra;San Felipe - El Almendral - La Merced;2;2;70;;False;False;True;False;False;True;5.857142857142857
+163074866;300;Planta baja;;Jaén Capital;Calle Calle Alicante;Peñamefecit - Avda Barcelona;;;17;;False;False;False;False;False;False;17.647058823529413
+163074073;570;Piso;;Jaén Capital;Camino de las Cruces;Belén - San Roque;2;2;92;;False;True;True;False;False;False;6.195652173913044
+163073655;520;Piso;953114835;Jaén Capital;;;3;2;98;3;True;False;False;False;False;False;5.3061224489795915
+163068695;460;Piso;953115713;Jaén Capital;;;1;1;50;2;True;False;False;False;False;False;9.2
+163061808;500;Piso;953114869;Jaén Capital;Avenida de Andalucía;Peñamefecit - Avda Barcelona;2;1;75;;True;False;False;False;True;False;6.666666666666667
+163056187;600;Piso;953113238;Jaén Capital;;;2;2;105;2;False;False;False;False;True;False;5.714285714285714
+163056047;500;Piso;;Jaén Capital;Calle del Doctor Civera;San Bartolomé - Millán de Priego;3;2;95;2;True;False;False;False;False;False;5.2631578947368425
+163055062;150;Piso;953114231;Jaén Capital;;;4;2;120;1;True;False;False;False;False;False;1.25
+163054304;650;Piso;953115713;Jaén Capital;;;2;2;105;2;False;True;False;False;False;False;6.190476190476191
+163053805;600;Piso;;Jaén Capital;Calle D Rafael Ortega Sagrista;San Ildefonso - Catedral;2;1;90;;True;False;False;False;False;True;6.666666666666667
+160150429;600;Ático;953114869;Jaén Capital;Calle del Rastro;Avda de Madrid - Pº de la Estación;4;2;182;6;True;False;False;False;False;False;3.2967032967032965
+163037717;450;Piso;953380135;Jaén Capital;Calle de San Clemente;San Bartolomé - Millán de Priego;3;2;90;1;False;False;False;False;True;False;5.0
+163035223;2000;Casa o chalet;953115713;Jaén Capital;;;9;8;570;;False;True;False;False;False;True;3.508771929824561
+163033751;550;Piso;;Jaén Capital;Avenida de Andalucía;Santa Isabel;2;1;62;;False;False;False;False;True;True;8.870967741935484
+163030726;430;Apartamento;953115713;Jaén Capital;;;1;1;55;;False;False;False;True;False;False;7.818181818181818
+163024430;475;Apartamento;953113238;Jaén Capital;;;2;1;65;3;True;False;False;False;False;False;7.3076923076923075
+163020007;535;Piso;;Jaén Capital;Calle Fuente del Alamillo;Valdeastillas - Fuentezuelas;2;1;60;;True;False;True;False;False;False;8.916666666666666
+163006232;450;Piso;953114029;Jaén Capital;;;3;1;92;3;True;False;False;False;False;False;4.891304347826087
+163001545;600;Piso;620275763;Jaén Capital;;;3;2;110;3;True;False;False;False;False;False;5.454545454545454
+162963026;200;Piso;953115976;Jaén Capital;;;2;1;100;3;False;False;False;False;True;False;2.0
+162962965;450;Piso;953115976;Jaén Capital;;;2;1;75;1;False;False;False;False;False;True;6.0
+162959847;390;Apartamento;953114865;Jaén Capital;Avenida de Andalucía;Peñamefecit - Avda Barcelona;1;1;46;4;True;False;False;False;False;False;8.478260869565217
+162959637;400;Piso;953114539;Jaén Capital;;;1;1;45;2;False;False;False;False;False;True;8.88888888888889
+162959364;410;Apartamento;953114865;Jaén Capital;Avenida de Andalucía;Peñamefecit - Avda Barcelona;2;1;65;8;True;False;False;False;False;False;6.3076923076923075
+162957912;600;Ático;953114865;Jaén Capital;Calle Navas de Tolosa;Avda de Madrid - Pº de la Estación;3;2;100;5;True;False;False;False;False;False;6.0
+160292229;650;Apartamento;953113318;Jaén Capital;;;1;1;52;1;True;False;False;False;False;False;12.5
+162954551;450;Piso;953114239;Jaén Capital;Conserje Enrique López;San Ildefonso - Catedral;1;1;30;;False;False;False;False;True;True;15.0
+162941028;650;Piso;953114539;Jaén Capital;;;3;2;89;2;True;False;False;False;False;False;7.303370786516854
+162940272;650;Piso;953114539;Jaén Capital;;;4;2;140;7;True;False;False;False;False;False;4.642857142857143
+162939925;600;Piso;953114539;Jaén Capital;;;3;1;70;1;False;False;False;False;False;False;8.571428571428571
+162938354;550;Piso;;Jaén Capital;Avenida de Granada;Belén - San Roque;2;1;60;;True;False;False;True;False;False;9.166666666666666
+161764395;450;Casa o chalet;953115976;Jaén Capital;;;1;1;70;;False;False;False;False;False;False;6.428571428571429
+162900214;600;Piso;953114539;Jaén Capital;;;2;2;105;2;False;False;False;True;False;False;5.714285714285714
+162417974;575;Apartamento;953113381;Jaén Capital;;;1;1;50;3;True;False;False;False;False;False;11.5
+162882113;150;Piso;953115713;Jaén Capital;;;4;1;120;4;False;False;False;False;True;False;1.25
+162867395;640;Piso;953115713;Jaén Capital;;;4;2;140;7;True;False;False;False;False;False;4.571428571428571
+162865064;490;Piso;953380135;Jaén Capital;Calle Nueva;Avda de Madrid - Pº de la Estación;1;2;91;1;False;False;False;True;False;False;5.384615384615385
+162851724;600;Piso;953114539;Jaén Capital;;;4;2;120;1;False;False;False;False;False;True;5.0
+162846198;500;Estudio;953115713;Jaén Capital;;;;1;100;1;True;False;False;True;False;False;5.0
+162846169;650;Piso;953115713;Jaén Capital;;;3;2;130;2;True;False;False;False;False;False;5.0
+158428683;600;Piso;961284629;Jaén Capital;C/ Santo Reino;Avda de Madrid - Pº de la Estación;2;1;62;;True;False;False;True;False;False;9.67741935483871
+162819554;600;Ático;953114539;Jaén Capital;;;3;2;90;5;True;False;False;False;False;False;6.666666666666667
+162724126;750;Piso;953115713;Jaén Capital;;;4;2;154;5;True;False;False;False;False;False;4.87012987012987
+162800429;1200;Casa adosada;953380135;Jaén Capital;Calle Pintor José María Tamayo;Renfe - Bulevar 1ª y 2ª Fase;4;4;250;;False;False;False;True;True;False;4.8
+162428485;430;Apartamento;953114865;Jaén Capital;Calle de Adarves Bajos;San Ildefonso - Catedral;2;1;65;2;True;False;False;False;False;False;6.615384615384615
+162376151;600;Piso;953114865;Jaén Capital;Avenida de Granada;San Ildefonso - Catedral;2;2;96;2;True;False;False;False;False;False;6.25
+162360734;450;Piso;953114865;Jaén Capital;Calle Labradores;Belén - San Roque;3;1;80;1;False;False;False;False;False;True;5.625
+162797896;450;Casa o chalet;953113786;Jaén Capital;;;3;2;98;;False;False;False;True;False;True;4.591836734693878
+162796651;500;Piso;953115713;Jaén Capital;;;2;1;70;5;True;False;False;False;False;False;7.142857142857143
+162795643;600;Piso;953115713;Jaén Capital;;;3;1;70;1;False;False;False;False;True;False;8.571428571428571
+162738119;400;Piso;953114239;Jaén Capital;Conserje Enrique López;San Ildefonso - Catedral;1;1;35;;False;False;False;False;True;True;11.428571428571429
+162657097;1000;Casa o chalet;953115713;Jaén Capital;;;5;3;345;;False;True;False;True;False;False;2.898550724637681
+161771404;350;Apartamento;953115713;Jaén Capital;;;1;1;40;;False;False;False;False;False;False;8.75
+162771831;600;Piso;953113786;Jaén Capital;;;4;1;115;3;True;False;False;False;False;False;5.217391304347826
+161772586;980;Piso;953115713;Jaén Capital;;;5;2;170;4;True;False;False;False;False;False;5.764705882352941
+162704987;600;Piso;;Jaén Capital;Calle Joaquín Tenorio;San Bartolomé - Millán de Priego;2;2;106;;False;False;False;True;True;False;5.660377358490566
+162758196;1200;Casa o chalet;953115713;Jaén Capital;;;6;4;250;;False;True;False;False;False;True;4.8
+162755221;450;Piso;953115713;Jaén Capital;;;3;1;100;3;False;False;False;True;False;False;4.5
+162753080;600;Piso;953115713;Jaén Capital;;;3;2;90;5;True;False;False;False;False;False;6.666666666666667
+161846628;620;Piso;953115713;Jaén Capital;;;3;2;75;2;False;False;False;False;False;True;8.266666666666667
+162746047;650;Piso;953115713;Jaén Capital;;;2;1;80;;True;False;False;False;False;True;8.125
+162739804;1200;Casa adosada;953380135;Jaén Capital;Calle Pintor José María Tamayo;Renfe - Bulevar 1ª y 2ª Fase;4;4;250;;False;True;False;True;False;False;4.8
+160204932;495;Piso;953113238;Jaén Capital;;;3;2;120;1;True;False;False;False;False;False;4.125
+162735615;500;Piso;953114835;Jaén Capital;;;2;1;92;;False;False;False;False;False;False;5.434782608695652
+162718129;1080;Piso;953380135;Jaén Capital;Avenida de Granada;Belén - San Roque;4;2;150;2;True;False;False;False;False;False;7.2
+162214836;900;Piso;953113786;Jaén Capital;;;2;1;80;9;True;False;False;False;False;False;11.25
+162366003;430;Apartamento;953113786;Jaén Capital;;;1;1;40;1;False;False;False;True;False;False;10.75
+162675127;1200;Casa adosada;;Jaén Capital;Calle Pintor José María Tamayo;Renfe - Bulevar 1ª y 2ª Fase;6;4;250;;False;True;False;True;False;False;4.8
+162674547;450;Apartamento;;Jaén Capital;Calle del Salido;San Bartolomé - Millán de Priego;1;1;40;;False;False;False;True;False;True;11.25
+160973205;700;Piso;953114539;Jaén Capital;;;4;2;135;3;True;False;False;False;False;False;5.185185185185185
+162610896;550;Dúplex;953115469;Jaén Capital;Calle Álamos;San Bartolomé - Millán de Priego;1;2;85;;True;True;False;False;False;False;6.470588235294118
+162504861;1000;Piso;;Jaén Capital;Calle Calle Cuesta de Belén;Belén - San Roque;3;2;100;;True;False;False;False;False;True;10.0
+162594522;400;Apartamento;;Jaén Capital;Plaza Cerro San Cristobal  Urbanización Bellavista;Alcantarilla - La Glorieta;2;1;70;;False;True;False;False;False;False;5.714285714285714
+162496449;600;Piso;953114865;Jaén Capital;Paseo de la Estación;Hospital;3;1;85;1;True;False;False;False;False;False;7.0588235294117645
+162547884;160000;Piso;;Jaén Capital;Plaza Plaza Cruz Rueda;San Felipe - El Almendral - La Merced;3;2;86;2;True;False;False;False;False;False;1860.4651162790697
+162397133;600;Piso;;Jaén Capital;Paseo de la Estación;Hospital;3;1;85;;False;True;False;False;True;False;7.0588235294117645
+162321481;600;Piso;953114539;Jaén Capital;;;2;2;96;3;True;False;False;False;False;False;6.25
+162254332;600;Piso;;Jaén Capital;Avenida de Granada;San Ildefonso - Catedral;2;2;96;;True;False;True;False;False;False;6.25
+161930458;450;Apartamento;;Jaén Capital;Calle Maestro Bartolomé;San Bartolomé - Millán de Priego;2;1;70;;False;True;False;True;False;False;6.428571428571429
+161852337;700;Piso;;Jaén Capital;Calle Nueva;Avda de Madrid - Pº de la Estación;3;1;120;;False;False;False;False;True;True;5.833333333333333
+161743833;450;Apartamento;;Jaén Capital;Avenida Antonio Pascual Acosta;El Valle - Universidad;1;1;40;;True;False;False;True;False;False;11.25
+161522633;600;Piso;;Jaén Capital;Plaza Virgen de la Paz;Belén - San Roque;3;2;120;;False;False;False;False;True;False;5.0
+161440202;630;Piso;;Jaén Capital;Calle Melilla;Renfe - Bulevar 1ª y 2ª Fase;3;2;110;;True;False;False;False;False;True;5.7272727272727275
+161005573;450;Piso;;Jaén Capital;Calle del Capitán Aranda Baja;San Ildefonso - Catedral;3;1;113;;False;False;False;False;False;True;3.982300884955752
+160926404;450;Piso;;Jaén Capital;Calle Doctor Benedicto Fernández;Peñamefecit - Avda Barcelona;3;1;75;;False;False;False;False;False;True;6.0
+160139297;540;Piso;;Jaén Capital;Calle Maestro Sapena;Peñamefecit - Avda Barcelona;3;2;95;;True;True;False;False;False;False;5.684210526315789
+158696882;700;Piso;;Jaén Capital;Avenida de Madrid;Belén - San Roque;3;;100;;True;False;False;False;True;False;7.0
+155672014;590;Piso;;Jaén Capital;;;5;2;150;;True;True;False;False;False;False;3.933333333333333
+156779779;500;Piso;;Jaén Capital;Calle del Sagrado Corazón de Jesús;Santa Isabel;1;1;52;;True;False;True;False;False;False;9.615384615384615
+161231150;700;Casa adosada;;Jaén Capital;Calle Doctor Fleming;Belén - San Roque;3;1;89;;False;True;False;False;False;True;7.865168539325842
+160087936;600;Ático;;Jaén Capital;Avenida de Madrid;Belén - San Roque;4;;;;False;True;False;True;False;True;
+160076603;600;Piso;;Jaén Capital;Calle de Hurtado;San Ildefonso - Catedral;1;1;50;;True;False;True;False;False;False;12.0
+161933113;536;Piso;911226042;Logroño;Calle Marqués de Larios;Cascajos - Piqueras;1;1;50;5;True;False;True;True;False;False;10.72
+161801736;645;Piso;911226042;Logroño;Calle Dinamarca;Portillejo - Valdegastea;3;2;107;8;True;False;True;False;False;True;6.02803738317757
+161693189;450;Piso;918007596;Logroño;Calle de San Antón;Centro;2;2;70;2;True;False;False;False;False;False;6.428571428571429
+163107886;850;Piso;941470423;Logroño;;;3;2;158;3;True;False;False;False;False;False;5.379746835443038
+163103389;490;Estudio;941470714;Logroño;Escuelas Pias;San Millán - Ayuntamiento;1;1;65;3;True;False;False;False;False;False;7.538461538461538
+163016191;520;Apartamento;941948051;Logroño;;;2;2;74;;True;False;True;False;False;False;7.027027027027027
+162977854;580;Apartamento;941470714;Logroño;Colon;Residencia;2;1;80;1;True;False;False;False;False;False;7.25
+162976138;625;Apartamento;941942218;Logroño;Avenida Pérez Galdós;Centro;2;1;70;1;True;False;False;False;False;False;8.928571428571429
+162965919;550;Piso;941948051;Logroño;;;3;1;74;;True;True;False;False;False;False;7.4324324324324325
+162935426;750;Piso;941946140;Logroño;Calle Sorzano;La Cava - Fardachón;3;2;100;1;True;False;False;False;False;False;7.5
+162898433;575;Apartamento;941948051;Logroño;;;2;1;67;;True;False;True;False;False;False;8.582089552238806
+162780472;650;Apartamento;941470129;Logroño;;;2;1;100;;True;True;False;False;False;False;6.5
+162815336;630;Estudio;941948051;Logroño;;;1;1;76;;True;False;False;True;False;False;8.289473684210526
+162872957;700;Piso;941470129;Logroño;;;3;2;110;;True;False;True;False;False;False;6.363636363636363
+162686004;700;Piso;941945068;Logroño;Logroño - Avenida de Colón;Residencia;3;2;105;2;True;False;False;False;False;False;6.666666666666667
+162682885;800;Piso;941470326;Logroño;Doctores Castroviejo;Centro;4;2;120;2;True;False;False;False;False;False;6.666666666666667
+163071498;600;Piso;941942218;Logroño;Calle Éibar;Portillejo - Valdegastea;4;2;120;7;True;False;False;False;False;False;5.0
+163009029;650;Piso;941945068;Logroño;Logroño - Pedregales;Cascajos - Piqueras;3;2;81;2;True;False;False;False;False;False;8.024691358024691
+163106624;425;Estudio;941945089;Logroño;Calle Senado;San Millán - Ayuntamiento;1;1;60;3;True;False;False;False;False;False;7.083333333333333
+163104930;650;Apartamento;941941267;Logroño;Jorge Vigon;Centro;2;1;60;2;True;False;False;False;False;False;10.833333333333334
+163103171;750;Piso;941945068;Logroño;Logroño - Alfonso VI;San Adrián;1;1;55;1;True;False;False;False;False;False;13.636363636363637
+163073962;425;Estudio;941946251;Logroño;;;1;1;50;4;True;False;False;False;False;False;8.5
+162784336;800;Dúplex;941946140;Logroño;Avenida Club Deportivo;San Adrián;4;2;150;3;True;False;False;False;False;False;5.333333333333333
+163067644;780;Piso;941471043;Logroño;Sojuela;La Cava - Fardachón;3;2;95;6;True;False;False;False;False;False;8.210526315789474
+163063450;590;Piso;941945068;Logroño;Logroño - Calle Bretón de Los Herreros;Casco Antiguo;1;1;35;2;True;False;False;False;False;False;16.857142857142858
+163062612;450;Apartamento;;Logroño;Calle Mercaderes;Casco Antiguo;1;1;55;;False;False;False;True;False;True;8.181818181818182
+163060870;950;Piso;941944059;Logroño;Calle de San Antón;Centro;3;2;108;4;True;False;False;False;False;False;8.796296296296296
+163057080;550;Piso;941945068;Logroño;Logroño - Calle Chile;Centro;3;1;69;7;True;False;False;False;False;False;7.971014492753623
+163056680;525;Piso;941470734;Logroño;;;3;1;69;2;True;False;False;False;False;False;7.608695652173913
+163056676;350;Apartamento;941470734;Logroño;Doce Ligero;San Millán - Ayuntamiento;2;1;60;5;False;False;False;True;False;False;5.833333333333333
+161471307;750;Piso;941470129;Logroño;;;6;2;160;;True;True;False;False;False;False;4.6875
+163049098;850;Piso;941944059;Logroño;Calle Juan Lobo;Casco Antiguo;3;2;107;3;True;False;False;False;False;False;7.94392523364486
+161017992;650;Piso;941944059;Logroño;Vara de Rey;Centro;4;2;114;;True;False;True;False;False;False;5.701754385964913
+163041109;650;Apartamento;941941267;Logroño;Calle Clavijo;La Cava - Fardachón;2;2;65;4;True;False;False;False;False;False;10.0
+163040393;590;Estudio;941941267;Logroño;Calle de Bretón de Los Herreros;Casco Antiguo;1;1;55;2;True;False;False;False;False;False;10.727272727272727
+163034285;650;Apartamento;941948051;Logroño;;;3;2;154;;True;True;False;False;False;False;4.220779220779221
+163027935;475;Apartamento;;Logroño;Calle Calle Ronda de Los Cuarteles;Logroño;2;1;65;;False;False;False;True;False;True;7.3076923076923075
+163020390;650;Piso;;Logroño;Calle Somosierra;Centro;3;1;120;;True;True;False;False;False;False;5.416666666666667
+163008572;750;Apartamento;941471043;Logroño;Bretón de Los Herreros;Casco Antiguo;2;1;57;1;True;False;False;False;False;False;13.157894736842104
+162998950;398;Apartamento;941470673;Logroño;Calle Sagasta;Casco Antiguo;2;1;48;4;False;False;False;False;False;True;8.291666666666666
+162995061;850;Piso;941945217;Logroño;Calle Juan Lobo;Casco Antiguo;3;2;122;;False;True;False;True;False;False;6.967213114754099
+160519617;850;Piso;848847038;Logroño;;;4;1;166;1;True;False;False;False;False;False;5.120481927710843
+162970265;750;Piso;941941267;Logroño;Alfonso VI;San Adrián;3;2;90;5;True;False;False;False;False;False;8.333333333333334
+161927877;500;Estudio;941941267;Logroño;Marques de Murrieta;Centro;1;1;55;4;True;False;False;False;False;False;9.090909090909092
+162966612;650;Piso;;Logroño;Calle Escuelas Pías;San Millán - Ayuntamiento;3;2;122;;True;True;False;False;False;False;5.327868852459017
+162963825;850;Piso;941946251;Logroño;;;3;2;120;1;True;False;False;False;False;False;7.083333333333333
+162947528;490;Apartamento;941946140;Logroño;Calle Chile;Centro;2;1;56;4;True;False;False;False;False;False;8.75
+162911788;600;Piso;;Logroño;Calle Pilar Salarrullana;Centro;3;2;125;;False;False;False;True;False;True;4.8
+162423673;850;Piso;941471237;Logroño;;;3;2;124;4;True;False;False;False;False;False;6.854838709677419
+162882349;750;Piso;941471043;Logroño;Lope de Vega;Cascajos - Piqueras;3;2;88;5;True;False;False;False;False;False;8.522727272727273
+162874942;650;Piso;;Logroño;Calleja Lobete;Cascajos - Piqueras;3;2;90;;True;True;False;False;False;False;7.222222222222222
+162852673;650;Piso;;Logroño;;;3;1;100;;True;False;False;False;False;True;6.5
+162833362;650;Piso;;Logroño;Calle Duques de Nájera;Centro;3;2;85;;True;True;False;False;False;False;7.647058823529412
+162831601;850;Piso;941941267;Logroño;Calle Benemérito Cuerpo Guardia Civil;Centro;3;2;95;4;True;False;False;False;False;False;8.947368421052632
+162819951;680;Piso;941946251;Logroño;;;3;2;90;2;True;False;False;False;False;False;7.555555555555555
+162817350;850;Piso;941944059;Logroño;Calle General Vara de Rey;Centro;4;2;145;4;True;False;False;False;False;False;5.862068965517241
+162809624;620;Piso;;Logroño;Calle Obispo Lepe;Residencia;3;1;90;;True;True;False;False;False;False;6.888888888888889
+162351957;675;Piso;941945068;Logroño;Logroño - Avenida Solidaridad;Centro;3;1;69;3;True;False;False;False;False;False;9.782608695652174
+161999132;650;Apartamento;941948051;Logroño;;;2;1;62;;True;False;False;True;False;False;10.483870967741936
+162802260;795;Piso;941946251;Logroño;;;4;2;180;3;True;False;False;False;False;False;4.416666666666667
+162799654;600;Piso;941945068;Logroño;Logroño - Calle Marqués de Murrieta;Oeste;2;1;81;6;True;False;False;False;False;False;7.407407407407407
+162221438;800;Piso;941948051;Logroño;;;3;2;130;;True;False;True;False;False;False;6.153846153846154
+162068898;850;Piso;941948051;Logroño;;;3;2;122;;True;False;True;False;False;False;6.967213114754099
+162797788;600;Piso;941948051;Logroño;;;3;1;88;;True;True;False;False;False;False;6.818181818181818
+162325449;875;Piso;941945068;Logroño;Logroño - Calle Maria Zambrano;Centro;3;2;120;6;True;False;False;False;False;False;7.291666666666667
+147142383;2000;Casa o chalet;941470326;Logroño;Albornoz;Casco Antiguo;3;2;120;1;False;False;False;True;False;False;16.666666666666668
+162387098;750;Piso;941945068;Logroño;Logroño - Poeta Prudencio;Cascajos - Piqueras;3;2;75;2;True;False;False;False;False;False;10.0
+153019505;2200;Piso;941470326;Logroño;Victor Pradera;Centro;5;2;350;1;True;False;False;False;False;False;6.285714285714286
+162782767;400;Apartamento;941470734;Logroño;Ruperto Gomez de Segura;San Millán - Ayuntamiento;2;1;60;1;False;True;False;False;False;False;6.666666666666667
+162779430;800;Dúplex;941942218;Logroño;;;4;2;140;3;True;False;False;False;False;False;5.714285714285714
+160297972;740;Piso;941470714;Logroño;;;3;2;105;2;True;False;False;False;False;False;7.0476190476190474
+162303669;1100;Piso;941945068;Logroño;Logroño - Calle San Antón;Centro;4;2;162;8;True;False;False;False;False;False;6.790123456790123
+161999191;650;Apartamento;941948051;Logroño;;;2;1;62;;True;False;False;True;False;False;10.483870967741936
+162374040;900;Apartamento;941948051;Logroño;;;2;2;100;;True;False;True;False;False;False;9.0
+162505528;520;Apartamento;941948051;Logroño;;;2;1;73;;True;False;False;False;False;False;7.123287671232877
+157819058;600;Apartamento;941470129;Logroño;;;2;2;120;;True;False;False;True;False;False;5.0
+161770584;700;Piso;941942218;Logroño;Calle de la Vía;Centro;3;2;90;4;True;False;False;False;False;False;7.777777777777778
+157627982;900;Piso;941470129;Logroño;;;3;2;142;;True;True;False;False;False;False;6.338028169014085
+157626379;1000;Piso;941470129;Logroño;;;3;2;110;;True;True;False;False;False;False;9.090909090909092
+161553058;700;Piso;941948051;Logroño;;;3;2;87;;True;True;False;False;False;False;8.045977011494253
+162767385;425;Piso;941946140;Logroño;Calle Hospital Viejo;Casco Antiguo;2;1;60;2;False;False;False;True;False;False;7.083333333333333
+162430632;700;Piso;941470129;Logroño;;;3;2;100;;True;False;True;False;False;False;7.0
+152922977;1000;Piso;941470326;Logroño;Victor Pradera;Centro;4;2;170;6;True;False;False;False;False;False;5.882352941176471
+162766002;650;Piso;;Logroño;Calle María Teresa Gil de Gárate;Centro;3;1;75;;True;False;False;True;False;False;8.666666666666666
+162700005;950;Ático;941948051;Logroño;;;3;2;120;;True;True;False;False;False;False;7.916666666666667
+162157625;950;Piso;941948051;Logroño;;;3;2;130;;True;False;True;False;False;False;7.3076923076923075
+158417591;550;Estudio;941948051;Logroño;;;1;1;60;;True;False;False;True;False;False;9.166666666666666
+162075141;670;Apartamento;941948051;Logroño;;;2;2;70;;True;False;True;False;False;False;9.571428571428571
+162077873;600;Piso;941945068;Logroño;Logroño - Perez Galdos;Centro;2;1;65;1;True;False;False;False;False;False;9.23076923076923
+149774773;800;Piso;941470326;Logroño;Avenida Club Deportivo;San Adrián;3;2;140;2;True;False;False;False;False;False;5.714285714285714
+162187113;700;Piso;941470129;Logroño;;;3;2;90;;True;False;True;False;False;False;7.777777777777778
+161791613;650;Piso;941945068;Logroño;Logroño - Calle Francisco Martínez Zaporta;Casco Antiguo;2;1;52;3;True;False;False;False;False;False;12.5
+161711351;575;Piso;941945068;Logroño;Avenida Pérez Galdós;Centro;1;1;43;2;True;False;False;False;False;False;13.372093023255815
+154964230;1200;Piso;941470129;Logroño;;;4;2;130;;True;False;True;False;False;False;9.23076923076923
+161668224;730;Piso;941945068;Logroño;Logroño - Marques de Murrieta;Centro;2;2;74;6;True;False;False;False;False;False;9.864864864864865
+160978503;530;Apartamento;941948051;Logroño;;;2;1;60;;False;True;False;False;False;True;8.833333333333334
+161797576;650;Piso;941945068;Logroño;Calle Francisco Martínez Zaporta;Casco Antiguo;2;1;54;2;True;False;False;False;False;False;12.037037037037036
+157357923;1100;Ático;941948051;Logroño;;;4;2;210;;True;False;True;False;False;False;5.238095238095238
+162739151;510;Piso;;Logroño;Calle Rey Pastor;Centro;1;1;50;;True;False;False;False;False;False;10.2
+153888208;850;Piso;941944059;Logroño;Calle de San Antón;Centro;4;2;180;;True;False;True;False;False;False;4.722222222222222
+162347156;630;Piso;941944059;Logroño;Calle Benemérito Cuerpo Guardia Civil;Oeste;3;1;88;4;True;False;False;False;False;False;7.159090909090909
+162715847;880;Piso;;Logroño;Calle Marqués de Murrieta;Centro;2;2;65;;True;False;False;False;False;True;13.538461538461538
+162427393;750;Piso;941941267;Logroño;Calle Rafael Azcona;Oeste;4;2;100;4;True;False;False;False;False;False;7.5
+162389543;750;Ático;;Logroño;Parque Los Lirios;Los Lirios;4;2;105;;True;False;True;False;False;False;7.142857142857143
+162265313;650;Piso;;Logroño;Calle Cantabria;San Millán - Ayuntamiento;3;1;90;;True;True;False;False;False;False;7.222222222222222
+162197279;650;Piso;;Logroño;Avenida de la Solidaridad;Residencia;2;1;90;;True;False;False;False;False;True;7.222222222222222
+162139811;900;Piso;;Logroño;Calle Belchite;Centro;2;2;120;;True;False;True;False;False;False;7.5
+161550443;1400;Ático;941471043;Logroño;Bretón de Los Herreros;Casco Antiguo;4;3;96;4;True;False;False;False;False;False;14.583333333333334
+161932842;750;Piso;941946251;Logroño;;;4;2;110;4;True;False;False;False;False;False;6.818181818181818
+161898726;850;Piso;941946251;Logroño;;;3;2;130;1;True;False;False;False;False;False;6.538461538461538
+161597424;650;Piso;;Logroño;Calle Francisco Martínez Zaporta;Casco Antiguo;2;;65;;True;False;False;True;False;False;10.0
+161247267;650;Piso;;Logroño;Calle Herrerías;Casco Antiguo;2;1;70;;True;False;False;True;False;False;9.285714285714286
+160933517;700;Piso;941941267;Logroño;Gran Vía Juan Carlos I;Centro;2;2;90;;False;False;False;True;False;False;7.777777777777778
+160748414;650;Piso;;Logroño;Calle San José de Calasanz;San Millán - Ayuntamiento;2;1;61;3;True;False;False;False;False;False;10.655737704918034
+157453070;595;Piso;;Logroño;Paseo del Prior;Universidad;3;1;80;;False;True;False;True;False;False;7.4375
+155582858;900;Piso;;Logroño;Calle Portales;Logroño;1;1;60;;True;False;False;False;False;True;15.0
+151811027;600;Apartamento;941948051;Logroño;;;5;2;150;;False;True;False;False;False;True;4.0
+162850819;510;Piso;;Logroño;Avenida Avenida Gran Vía Rey Juan Carlos I;Centro;2;1;80;;True;True;False;False;False;False;6.375
+145972430;1390;Piso;941946251;Logroño;;;1;1;53;;True;False;False;True;False;False;26.22641509433962
+163017558;375;Piso;926281029;Puertollano;Calle Numancia;Centro;2;1;69;3;True;False;False;False;False;False;5.434782608695652
+162874818;450;Piso;926281029;Puertollano;Paseo de San Gregorio;Centro;4;2;125;6;True;False;False;False;False;False;3.6
+162338052;400;Piso;926281029;Puertollano;Calle Isabel la Católica;Centro;2;1;77;2;False;False;False;False;True;False;5.194805194805195
+163036135;600;Piso;926281029;Puertollano;Calle José Domingo Maestre;Centro;4;2;126;3;False;True;False;False;False;False;4.761904761904762
+163029750;375;Piso;926281029;Puertollano;Calle Menéndez Pelayo;Centro;1;1;60;2;True;False;False;False;False;False;6.25
+163022863;450;Piso;926281029;Puertollano;Calle de las Cruces;Centro;2;1;72;2;True;False;False;False;False;False;6.25
+162998504;600;Casa adosada;;Puertollano;Plaza de Alcolea;PAU 2-600;1;1;300;;False;True;False;False;False;True;2.0
+157638026;430;Ático;926281216;Puertollano;;;3;2;85;4;True;False;False;False;False;False;5.0588235294117645
+161685922;430;Piso;926281216;Puertollano;;;3;2;90;2;True;False;False;False;False;False;4.777777777777778
+162861922;400;Piso;926281029;Puertollano;Calle Santa Lucía;Centro;3;2;110;4;True;False;False;False;False;False;3.6363636363636362
+160834243;400;Piso;926281029;Puertollano;Calle Ancha;Centro;3;;60;;False;False;False;False;True;True;6.666666666666667
+160927920;400;Piso;926281029;Puertollano;Paseo de San Gregorio;Centro;4;2;105;1;True;False;False;False;False;False;3.8095238095238093
+162364305;450;Piso;926281029;Puertollano;Avenida Primero de Mayo;Centro;3;1;88;5;False;False;False;True;False;False;5.113636363636363
+161172039;425;Piso;926281029;Puertollano;Avenida Primero de Mayo;Centro;3;1;97;3;True;False;False;False;False;False;4.381443298969073
+154064373;450;Piso;926281216;Puertollano;Calle Garcilaso de la Vega;Centro;3;1;85;1;True;False;False;False;False;False;5.294117647058823
+161819753;400;Piso;;Puertollano;Calle Goya;Centro;3;1;100;;True;False;False;False;False;False;4.0
+160934096;450;Piso;;Puertollano;Paseo de San Gregorio;Centro;3;1;110;;True;False;False;False;False;True;4.090909090909091
+160953605;450;Piso;;Puertollano;Calle Ancha;Centro;2;1;64;;False;False;False;True;True;False;7.03125
+152143207;400;Piso;926286329;Puertollano;Paseo de San Gregorio;Centro;4;2;90;;True;False;False;False;False;True;4.444444444444445
+159432548;400;Piso;926286329;Puertollano;;;2;1;76;2;True;False;False;False;False;False;5.2631578947368425
+127642311;350;Piso;;Puertollano;Calle Lope de Vega;Centro;3;1;105;;True;True;False;False;False;False;3.3333333333333335
+163013284;475;Piso;926281029;Puertollano;Calle Santa Ana;Centro;3;1;90;;True;False;False;True;False;False;5.277777777777778

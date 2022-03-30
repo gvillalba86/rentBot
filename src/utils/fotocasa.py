@@ -315,7 +315,11 @@ def clean_fotocasa_data(ids, precios, tipos, titulos, atributos, telefonos, ciud
            }
 
     # Create dataframe
-    df = pd.DataFrame(dfr)
+    try:
+        df = pd.DataFrame(dfr)
+    except IndexError as e:
+        print('Error detected: ', e)
+        print('Error in data. Inconsistent data length')
 
     # Clean price column
     df.replace(' € /mes', '', regex=True, inplace=True)
