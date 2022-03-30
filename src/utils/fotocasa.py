@@ -304,6 +304,7 @@ def fotocasa_bot(ciudad):
 
 
 def clean_fotocasa_data(ids, precios, tipos, titulos, atributos, telefonos, ciudades):
+
     dfr = {'ID': ids,
            'Precio (€/mes)': precios,
            'Tipo': tipos,
@@ -312,6 +313,7 @@ def clean_fotocasa_data(ids, precios, tipos, titulos, atributos, telefonos, ciud
            'Telefonos': telefonos,
            'Ciudad': ciudades
            }
+
     # Create dataframe
     df = pd.DataFrame(dfr)
 

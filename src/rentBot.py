@@ -45,6 +45,7 @@ def main():
 
     if not os.path.exists(dir_export):
         os.makedirs(dir_export)
+
     df.to_csv(full_exp_path, index=False, sep=';')
 
 
