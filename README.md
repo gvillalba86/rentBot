@@ -29,9 +29,7 @@ de aplicaciones en el área _data science_.
 Los datos obtenidos tienen la siguiente información:
 
 * ID Número identificativo de la vivienda.
-
-* Precio (€/mes): Precio de la vivienda en euros mensuales. 
-
+* Precio (€/mes): Precio de la vivienda en euros mensuales.
 * Tipo: Tipo de vivienda.
 * Teléfono: Número de teléfono del anunciante.
 * Ciudad: Ciudad donde se encuentra el inmueble.
@@ -70,6 +68,12 @@ incluido en la carpeta /chromedriver.
 * Para salvar el bloqueo por parte del servidor web, el web scraping se 
 realiza con tiempos de espera, lo que provoca que la carga de datos sea
 relativamente lenta.
+
+## Datos de muestra
+Los datos de muestra han sido publicados también en Zenodo.
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6402641.svg)](https://doi.org/10.5281/zenodo.6402641)
+
 
 ## Licencia
 Ver archivo LICENSE
