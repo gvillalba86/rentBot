@@ -75,7 +75,7 @@ relativamente lenta.
 ## Datos de muestra
 Los datos de muestra han sido publicados también en Zenodo.
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6402641.svg)](https://doi.org/10.5281/zenodo.6402641)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6409348.svg)](https://doi.org/10.5281/zenodo.6409348)
 
 
 ## Licencia
